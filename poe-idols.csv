@@ -1,0 +1,760 @@
+Idol Type,Size,Affix Type,Content Tag,Affix,Stripped Affix,Range
+Minor Idol,1x1,Prefix,Rogue Exiles,Map Bosses have (6–10)% chance to be accompanied by two Rogue Exile Bodyguards,Map Bosses have #% chance to be accompanied by two Rogue Exile Bodyguards,6–10
+Minor Idol,1x1,Prefix,Beyond,(15–25)% chance for your Maps to attract Beyond Demons,#% chance for your Maps to attract Beyond Demons,15–25
+Minor Idol,1x1,Prefix,Delve,Your Maps have +(15–25)% chance to contain Niko,Your Maps have +#% chance to contain Niko,15–25
+Minor Idol,1x1,Prefix,Legion,Your Maps have +(15–25)% chance to contain a Legion Encounter,Your Maps have +#% chance to contain a Legion Encounter,15–25
+Minor Idol,1x1,Prefix,Maps,Tier 1-15 Maps found have (5–10)% chance to become 1 tier higher,Tier 1-15 Maps found have #% chance to become 1 tier higher,5–10
+Minor Idol,1x1,Suffix,Abyss,(300–350)% increased Rarity of Items Dropped by Abyssal Troves and Stygian Spires in your Maps,#% increased Rarity of Items Dropped by Abyssal Troves and Stygian Spires in your Maps,300–350
+Minor Idol,1x1,Suffix,Bestiary,Red Beasts in your Maps have (40–60)% increased chance to be from The Wilds,Red Beasts in your Maps have #% increased chance to be from The Wilds,40–60
+Minor Idol,1x1,Suffix,Harvest,Harvest Crops in your Maps have (10–15)% reduced chance to grow Purple Plants,Harvest Crops in your Maps have #% reduced chance to grow Purple Plants,10–15
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps have (40–60)% increased chance to require you to defeat waves of Enemies,Ultimatum Encounters in your Maps have #% increased chance to require you to defeat waves of Enemies,40–60
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (20–30)% increased chance to be Gems,Ultimatum Rewards in your Maps have #% increased chance to be Gems,20–30
+Minor Idol,1x1,Suffix,Scarabs,Unique Monsters in your Maps have (75–100)% increased chance to drop Scarabs,Unique Monsters in your Maps have #% increased chance to drop Scarabs,75–100
+Kamasan Idol,1x2,Prefix,Abyss,Your Maps have +(30–45)% chance to contain an Abyss,Your Maps have +#% chance to contain an Abyss,30–45
+Kamasan Idol,1x2,Prefix,Breach,Your Maps have +(30–45)% chance to contain Breaches,Your Maps have +#% chance to contain Breaches,30–45
+Kamasan Idol,1x2,Prefix,Betrayal,Your Maps have (144–180)% increased chance to contain Jun,Your Maps have #% increased chance to contain Jun,144–180
+Kamasan Idol,1x2,Suffix,Abyss,Abysses in your Maps spawn (12–18)% increased Monsters,Abysses in your Maps spawn #% increased Monsters,12–18
+Kamasan Idol,1x2,Suffix,Abyss,Abyss Cracks in your Maps have (8–12)% chance to spawn 100% increased Monsters,Abyss Cracks in your Maps have #% chance to spawn 100% increased Monsters,8–12
+Kamasan Idol,1x2,Suffix,Abyss,Abyss Pits in your Maps have (8–12)% chance to spawn 100% increased Monsters,Abyss Pits in your Maps have #% chance to spawn 100% increased Monsters,8–12
+Kamasan Idol,1x2,Suffix,Breach,(20–25)% increased Quantity of Breach Splinters dropped by Breach Monsters in your Maps,#% increased Quantity of Breach Splinters dropped by Breach Monsters in your Maps,20–25
+Kamasan Idol,1x2,Suffix,Expedition,(10–15)% increased quantity of Artifacts dropped by Monsters,#% increased quantity of Artifacts dropped by Monsters,10–15
+Kamasan Idol,1x2,Suffix,Expedition,Expedition Detonation Chains in your Maps travel (12–18)% slower,Expedition Detonation Chains in your Maps travel #% slower,12–18
+Kamasan Idol,1x2,Suffix,Betrayal,(16–24)% increased Rarity of items from Defeated Syndicate Members in your Maps per Equipment Item they have,#% increased Rarity of items from Defeated Syndicate Members in your Maps per Equipment Item they have,16–24
+Kamasan Idol,1x2,Suffix,Legion,(100–150)% increased Rarity of Items Dropped by Legion Sergeants in your Maps,#% increased Rarity of Items Dropped by Legion Sergeants in your Maps,100–150
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Titanic Scarabs,Scarabs dropped in your Maps are #% more likely to be Titanic Scarabs,60–80
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Essence Scarabs,Scarabs dropped in your Maps are #% more likely to be Essence Scarabs,60–80
+Noble Idol,2x1,Prefix,Bestiary,Your Maps have +(30–45)% chance to contain Einhar,Your Maps have +#% chance to contain Einhar,30–45
+Noble Idol,2x1,Prefix,Essence,Your Maps have (60–80)% chance to contain an additional Imprisoned Monster,Your Maps have #% chance to contain an additional Imprisoned Monster,60–80
+Noble Idol,2x1,Prefix,Expedition,Your Maps have +(30–45)% chance to contain an Expedition Encounter,Your Maps have +#% chance to contain an Expedition Encounter,30–45
+Noble Idol,2x1,Prefix,Legion,Your Maps have +(30–45)% chance to contain a Legion Encounter,Your Maps have +#% chance to contain a Legion Encounter,30–45
+Noble Idol,2x1,Prefix,Legion,Your Maps have (144–180)% increased chance to contain a Legion Encounter,Your Maps have #% increased chance to contain a Legion Encounter,144–180
+Noble Idol,2x1,Suffix,Beyond,(10–15)% increased Quantity of Tainted Currency dropped by Beyond Demons in your Maps,#% increased Quantity of Tainted Currency dropped by Beyond Demons in your Maps,10–15
+Noble Idol,2x1,Suffix,Breach,Breaches in your Maps have (80–120)% increased chance to belong to Xoph,Breaches in your Maps have #% increased chance to belong to Xoph,80–120
+Noble Idol,2x1,Suffix,Shrine,(25–35)% increased Effect of Shrine Buffs on Players in your Maps,#% increased Effect of Shrine Buffs on Players in your Maps,25–35
+Noble Idol,2x1,Suffix,Betrayal,Immortal Syndicate Members in your Maps are (120–160)% more likely to offer to Bargain for Items,Immortal Syndicate Members in your Maps are #% more likely to offer to Bargain for Items,120–160
+Noble Idol,2x1,Suffix,Ultimatum,Ultimatum Altars in your Maps have (30–40)% increased Life,Ultimatum Altars in your Maps have #% increased Life,30–40
+Noble Idol,2x1,Suffix,Ritual,Favours Rerolled at Ritual Altars in your Maps have (0.8–1.2)% chance to cost no Tribute,Favours Rerolled at Ritual Altars in your Maps have #% chance to cost no Tribute,0.8-1.2
+Noble Idol,2x1,Suffix,Ritual,Ritual Splinters offered at Ritual Altars in your Maps have (20–25)% increased Stack Size,Ritual Splinters offered at Ritual Altars in your Maps have #% increased Stack Size,20–25
+Noble Idol,2x1,Suffix,Strongboxes,Strongboxes in your Maps have (40–60)% chance to be guarded by an additional Pack of Monsters,Strongboxes in your Maps have #% chance to be guarded by an additional Pack of Monsters,40–60
+Burial Idol,3x1,Prefix,Rogue Exiles,Your Maps have a (40–60)% chance to contain an additional Rogue Exile,Your Maps have a #% chance to contain an additional Rogue Exile,40–60
+Burial Idol,3x1,Prefix,Shrine,Your Maps contain an additional Shrine,Your Maps contain an additional Shrine,100
+Burial Idol,3x1,Prefix,Harbinger,Your Maps contain an additional Harbinger,Your Maps contain an additional Harbinger,100
+Burial Idol,3x1,Prefix,Ultimatmum,Your Maps have (192–240)% increased chance to contain an Ultimatum Encounter,Your Maps have #% increased chance to contain an Ultimatum Encounter,192–240
+Burial Idol,3x1,Prefix,Maps,Your Maps have (5–8)% chance to grant an additional Kirac Mission on Completion,Your Maps have #% chance to grant an additional Kirac Mission on Completion,5–8
+Burial Idol,3x1,Suffix,Abyss,Abyss Cracks in your Maps have (10–20)% chance to spawn all Monsters as at least Magic,Abyss Cracks in your Maps have #% chance to spawn all Monsters as at least Magic,10–20
+Burial Idol,3x1,Suffix,Blight,Blight Monsters in your Maps take (30–40)% increased Damage,Blight Monsters in your Maps take #% increased Damage,30–40
+Burial Idol,3x1,Suffix,Exarch,(40–60)% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in your Maps,#% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in your Maps,40–60
+Burial Idol,3x1,Suffix,Delirium,Delirium Fog in your Maps lasts (10–15) additional seconds before dissipating,Delirium Fog in your Maps lasts # additional seconds before dissipating,10–15
+Burial Idol,3x1,Suffix,Pack Size,Monster Packs Influenced by The Shaper in your Maps have (15–25)% increased Pack Size,Monster Packs Influenced by The Shaper in your Maps have #% increased Pack Size,15–25
+Burial Idol,3x1,Suffix,Heist,Splinters contained in Legion Chests in your Maps have (20–25)% chance to be Duplicated,Splinters contained in Legion Chests in your Maps have #% chance to be Duplicated,20–25
+Burial Idol,3x1,Suffix,Ultimatum,Ultimatum Monsters in your Maps grant (40–60)% increased Experience,Ultimatum Monsters in your Maps grant #% increased Experience,40–60
+Totemic Idol,1x3,Prefix,Blight,Your Maps have +(40–60)% chance to contain a Blight Encounter,Your Maps have +#% chance to contain a Blight Encounter,40–60
+Totemic Idol,1x3,Prefix,Delve,Your Maps have +(40–60)% chance to contain Niko,Your Maps have +#% chance to contain Niko,40–60
+Totemic Idol,1x3,Prefix,Betrayal,Your Maps have +(40–60)% chance to contain Jun,Your Maps have +#% chance to contain Jun,40–60
+Totemic Idol,1x3,Prefix,Legion,Your Maps have (192–240)% increased chance to contain a Legion Encounter,Your Maps have #% increased chance to contain a Legion Encounter,192–240
+Totemic Idol,1x3,Suffix,Beyond,(20–25)% more Divination Cards found from Beyond Demons in your Maps that are followers of K'Tash,#% more Divination Cards found from Beyond Demons in your Maps that are followers of K'Tash,20–25
+Totemic Idol,1x3,Suffix,Breach,Breaches in your Maps open and close (20–30)% slower,Breaches in your Maps open and close #% slower,20-30
+Totemic Idol,1x3,Suffix,Heist,Immortal Syndicate Members in your Maps have (40–60)% chance to drop an additional Veiled Item,Immortal Syndicate Members in your Maps have #% chance to drop an additional Veiled Item,40–60
+Totemic Idol,1x3,Suffix,Maps,(25–35)% increased Rarity of Maps found in your Maps,#% increased Rarity of Maps found in your Maps,25–35
+Conqueror Idol,2x2,Prefix,Harvest,Your Maps have +(45–70)% chance to contain The Sacred Grove,Your Maps have +#% chance to contain The Sacred Grove,45–70
+Conqueror Idol,2x2,Suffix,Bestiary,Yellow Beasts in your Maps have (12–18)% chance to be replaced with Red Beasts,Yellow Beasts in your Maps have #% chance to be replaced with Red Beasts,12–18
+Conqueror Idol,2x2,Suffix,Harbingers,Currency Shards dropped by Harbingers in your Maps can drop as Currency Items instead,Currency Shards dropped by Harbingers in your Maps can drop as Currency Items instead,100
+Conqueror Idol,2x2,Suffix,Ritual,Ritual Altars in your Maps allow rerolling Favours an additional time,Ritual Altars in your Maps allow rerolling Favours an additional time,100
+Conqueror Idol,2x2,Suffix,Scarabs,Scarabs found in your Maps are more likely to be less common varieties,Scarabs found in your Maps are more likely to be less common varieties,100
+Conqueror Idol,2x2,Suffix,Eater,Monster Packs Influenced by The Eater of Worlds in your Maps have (25–35)% increased Pack Size,Monster Packs Influenced by The Eater of Worlds in your Maps have #% increased Pack Size,25–35
+Minor Idol,1x1,Prefix,Abyss,Your Maps have (80–100)% increased chance to contain an Abyss,Your Maps have #% increased chance to contain an Abyss,80–100
+Minor Idol,1x1,Prefix,Rogue Exiles,Map Bosses have (2–3)% chance to be accompanied by two Rogue Exiles,Map Bosses have #% chance to be accompanied by two Rogue Exiles,2–3
+Minor Idol,1x1,Prefix,Delve,Your Red Tier Maps grant (200–250) additional Voltaxic Sulphite on Completion,Your Red Tier Maps grant # additional Voltaxic Sulphite on Completion,200–250
+Minor Idol,1x1,Prefix,Shrine,Your Maps have +(7–10)% chance to contain a Shrine,Your Maps have +#% chance to contain a Shrine,7–10
+Minor Idol,1x1,Prefix,Shrine,Your Maps have a (35–50)% chance to contain an additional Shrine,Your Maps have a #% chance to contain an additional Shrine,35–50
+Minor Idol,1x1,Prefix,Expedition,Your Maps have (80–100)% increased chance to contain an Expedition Encounter,Your Maps have #% increased chance to contain an Expedition Encounter,80–100
+Minor Idol,1x1,Suffix,Incursion,Incursions in your Maps have (4–6)% increased Pack Size,Incursions in your Maps have #% increased Pack Size,4–6
+Minor Idol,1x1,Suffix,Blight,(15–20)% reduced Cost of Building and Upgrading Towers,#% reduced Cost of Building and Upgrading Towers,15–20
+Minor Idol,1x1,Suffix,Delirium,Delirium Monsters in your Maps have (5–10)% increased Pack Size,Delirium Monsters in your Maps have #% increased Pack Size,5–10
+Minor Idol,1x1,Suffix,Heist,"Heist Contracts found in your Maps are (40–60)% more likely to require Agility, Deception or Engineering","Heist Contracts found in your Maps are #% more likely to require Agility, Deception or Engineering",40–60
+Minor Idol,1x1,Suffix,Legion,Legion Sergeants in your Maps have (6–10)% additional chance to have Rewards,Legion Sergeants in your Maps have #% additional chance to have Rewards,6–10
+Minor Idol,1x1,Suffix,Scouting Reports,(2–4)% chance for Scouting Reports to drop as Delirious Scouting Reports instead in your Maps,#% chance for Scouting Reports to drop as Delirious Scouting Reports instead in your Maps,2–4
+Minor Idol,1x1,Suffix,Scouting Reports,(2–4)% chance for Scouting Reports to drop as Blighted Scouting Reports instead in your Maps,#% chance for Scouting Reports to drop as Blighted Scouting Reports instead in your Maps,2–4
+Kamasan Idol,1x2,Prefix,Bestiary,Your Maps have (144–180)% increased chance to contain Einhar,Your Maps have #% increased chance to contain Einhar,144–180
+Kamasan Idol,1x2,Prefix,Maps,Final Map Boss in each Map has +(1.8–2.4)% chance to drop a Shaper Guardian Map (Tier 14+),Final Map Boss in each Map has +#% chance to drop a Shaper Guardian Map (Tier 14+),1.8-2.4
+Kamasan Idol,1x2,Suffix,Betrayal,Immortal Syndicate Members in your Maps are (120–160)% more likely to offer to Bargain for Items,Immortal Syndicate Members in your Maps are #% more likely to offer to Bargain for Items,120–160
+Kamasan Idol,1x2,Suffix,Legion,Legion Monsters in your Maps have (10–15)% increased Pack Size,Legion Monsters in your Maps have #% increased Pack Size,10–15
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Cartography Scarabs,Scarabs dropped in your Maps are #% more likely to be Cartography Scarabs,60–80
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Domination Scarabs,Scarabs dropped in your Maps are #% more likely to be Domination Scarabs,60–80
+Noble Idol,2x1,Prefix,Vaal,Your Maps have +(5–8)% chance to contain a Vaal Side Area,Your Maps have +#% chance to contain a Vaal Side Area,5–8
+Noble Idol,2x1,Suffix,Abyss,Abyss Cracks in your Maps have (8–12)% chance to spawn 100% increased Monsters,Abyss Cracks in your Maps have #% chance to spawn 100% increased Monsters,8–12
+Noble Idol,2x1,Suffix,Legion,(100–150)% increased Rarity of Items Dropped by Legion Sergeants in your Maps,#% increased Rarity of Items Dropped by Legion Sergeants in your Maps,100–150
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Anarchy Scarabs,Scarabs dropped in your Maps are #% more likely to be Anarchy Scarabs,60–80
+Burial Idol,3x1,Prefix,Essence,Your Maps contain an additional Imprisoned Monster,Your Maps contain an additional Imprisoned Monster,100
+Burial Idol,3x1,Suffix,Bestiary,Red Beasts in your Maps have (16–24)% chance to appear in Pairs,Red Beasts in your Maps have #% chance to appear in Pairs,16–24
+Burial Idol,3x1,Suffix,Breach,Breaches in your Maps open and close (6–10)% faster,Breaches in your Maps open and close #% faster,6-10
+Burial Idol,3x1,Suffix,Harvest,The Sacred Grove in your Maps has (40–60)% chance to contain an additional Harvest,The Sacred Grove in your Maps has #% chance to contain an additional Harvest,40–60
+Burial Idol,3x1,Suffix,Scarabs,Rare Monsters in your Maps have (40–60)% increased chance to drop Scarabs per Monster Modifier affecting them,Rare Monsters in your Maps have #% increased chance to drop Scarabs per Monster Modifier affecting them,40–60
+Totemic Idol,1x3,Prefix,Beyond,(40–60)% chance for your Maps to attract Beyond Demons,#% chance for your Maps to attract Beyond Demons,40–60
+Totemic Idol,1x3,Prefix,Essence,Your Maps have +(15–25)% chance to contain an Imprisoned Monster,Your Maps have +#% chance to contain an Imprisoned Monster,15–25
+Totemic Idol,1x3,Prefix,Maps,Your Maps have (5–8)% chance to grant an additional Kirac Mission on Completion,Your Maps have #% chance to grant an additional Kirac Mission on Completion,5–8
+Conqueror Idol,2x2,Prefix,Bestiary,Your Maps have +(45–70)% chance to contain Einhar,Your Maps have +#% chance to contain Einhar,45–70
+Conqueror Idol,2x2,Prefix,Delirium,Your Maps have +(45–70)% chance to contain a Mirror of Delirium,Your Maps have +#% chance to contain a Mirror of Delirium,45–70
+Conqueror Idol,2x2,Prefix,Delve,Your Maps have +(45–70)% chance to contain Niko,Your Maps have +#% chance to contain Niko,45–70
+Conqueror Idol,2x2,Prefix,Harvest,Your Maps have (224–280)% increased chance to contain The Sacred Grove,Your Maps have #% increased chance to contain The Sacred Grove,224–280
+Conqueror Idol,2x2,Suffix,Exarch,Your Maps have (10–15)% chance to award double progress towards encountering The Searing Exarch,Your Maps have #% chance to award double progress towards encountering The Searing Exarch,10–15
+Conqueror Idol,2x2,Suffix,Delirium,(20–30)% increased Stack size of Simulacrum Splinters found in your Maps,#% increased Stack size of Simulacrum Splinters found in your Maps,20–30
+Conqueror Idol,2x2,Suffix,Harvest,Lifeforce dropped by Harvest Monsters in your Maps has (10–15)% chance to be Duplicated,Lifeforce dropped by Harvest Monsters in your Maps has #% chance to be Duplicated,10–15
+Conqueror Idol,2x2,Suffix,Ultimatum,Ultimatum Encounters in your Maps grant rewards as though you completed an additional Round,Ultimatum Encounters in your Maps grant rewards as though you completed an additional Round,10
+Conqueror Idol,2x2,Suffix,Ritual,Your Maps with Ritual Altars always have four Ritual Altars,Your Maps with Ritual Altars always have four Ritual Altars,100
+Conqueror Idol,2x2,Suffix,Ritual,Completing the final Ritual Altar in your Maps has (15–20)% chance to drop a Blood-filled Vessel,Completing the final Ritual Altar in your Maps has #% chance to drop a Blood-filled Vessel,15–20
+Conqueror Idol,2x2,Suffix,Scarabs,Map Device has (3–5)% chance not to consume Scarabs,Map Device has #% chance not to consume Scarabs,3–5
+Minor Idol,1x1,Prefix,Abyss,Your Maps have +(15–25)% chance to contain an Abyss,Your Maps have +#% chance to contain an Abyss,15–25
+Minor Idol,1x1,Prefix,Rogue Exiles,Your Maps have a (15–25)% chance to contain an additional Rogue Exile,Your Maps have a #% chance to contain an additional Rogue Exile,15–25
+Minor Idol,1x1,Prefix,Rogue Exiles,Your Maps have +(7–10)% chance to contain a Rogue Exile,Your Maps have +#% chance to contain a Rogue Exile,7–10
+Minor Idol,1x1,Prefix,Betrayal,Your Maps have (80–100)% increased chance to contain Jun,Your Maps have #% increased chance to contain Jun,80–100
+Minor Idol,1x1,Prefix,Torment,Your Maps have +(7–10)% chance to be haunted by a Tormented Spirit,Your Maps have +#% chance to be haunted by a Tormented Spirit,7–10
+Minor Idol,1x1,Prefix,Maps,(2–3)% increased Maps found in Area,#% increased Maps found in Area,2–3
+Minor Idol,1x1,Suffix,Breach,"Xoph, Dark Embers in your Maps has a (20–30)% chance to be Duplicated","Xoph, Dark Embers in your Maps has a #% chance to be Duplicated",20–30
+Minor Idol,1x1,Suffix,Delirium,Delirium Encounters in your Maps have (6–10)% chance to generate an additional Reward type,Delirium Encounters in your Maps have #% chance to generate an additional Reward type,6–10
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps have (15–20)% increased chance for the final Round to include a Boss,Ultimatum Encounters in your Maps have #% increased chance for the final Round to include a Boss,15–20
+Minor Idol,1x1,Suffix,Vaal,Items found in your Corrupted Maps have (1–2)% chance to be Corrupted,Items found in your Corrupted Maps have #% chance to be Corrupted,1–2
+Kamasan Idol,1x2,Prefix,Rogue Exiles,Your Maps have +(12–18)% chance to contain a Rogue Exile,Your Maps have +#% chance to contain a Rogue Exile,12–18
+Kamasan Idol,1x2,Prefix,Delve,Your Maps have (144–180)% increased chance to contain Niko,Your Maps have #% increased chance to contain Niko,144–180
+Kamasan Idol,1x2,Prefix,Essence,Your Maps have (60–80)% chance to contain an additional Imprisoned Monster,Your Maps have #% chance to contain an additional Imprisoned Monster,60–80
+Kamasan Idol,1x2,Prefix,Heist,Your Maps have (144–180)% increased chance to contain a Smuggler's Cache,Your Maps have #% increased chance to contain a Smuggler's Cache,144–180
+Kamasan Idol,1x2,Suffix,Incursion,Incursions in your Maps have (15–25)% chance for all Monsters to be at least Magic,Incursions in your Maps have #% chance for all Monsters to be at least Magic,15–25
+Kamasan Idol,1x2,Suffix,Bestiary,Einhar has (60–80)% increased Cooldown Recovery Rate in your Maps,Einhar has #% increased Cooldown Recovery Rate in your Maps,60–80
+Kamasan Idol,1x2,Suffix,Breach,Breaches in your Maps have (70–100)% increased chance to belong to Uul-Netol,Breaches in your Maps have #% increased chance to belong to Uul-Netol,70–100
+Kamasan Idol,1x2,Suffix,Breach,Breaches in your Maps have (60–80)% increased chance to belong to Chayula,Breaches in your Maps have #% increased chance to belong to Chayula,60–80
+Kamasan Idol,1x2,Suffix,Pack Size,Monster Packs Influenced by Conquerors in your Maps have (8–12)% increased Pack Size,Monster Packs Influenced by Conquerors in your Maps have #% increased Pack Size,8–12
+Kamasan Idol,1x2,Suffix,Expedition,(6–10)% increased number of Explosives in your Maps,#% increased number of Explosives in your Maps,6–10
+Kamasan Idol,1x2,Suffix,Heist,Heist Contracts found in your Maps are (75–125)% more likely to require level 5 Jobs,Heist Contracts found in your Maps are #% more likely to require level 5 Jobs,75–125
+Noble Idol,2x1,Prefix,Betrayal,Your Maps have (144–180)% increased chance to contain Jun,Your Maps have #% increased chance to contain Jun,144–180
+Noble Idol,2x1,Suffix,Rogue Exiles,Rogue Exiles in your Maps have (15–20)% chance to drop an additional Currency Item,Rogue Exiles in your Maps have #% chance to drop an additional Currency Item,15–20
+Noble Idol,2x1,Suffix,Exarch,Monsters Influenced by The Searing Exarch in your Maps have (0.5–0.7)% chance to drop an Item with a Searing Exarch Implicit Modifier,Monsters Influenced by The Searing Exarch in your Maps have #% chance to drop an Item with a Searing Exarch Implicit Modifier,0.5-0.7
+Noble Idol,2x1,Suffix,Heist,Heist Contracts found in your Maps are (75–125)% more likely to require level 4 Jobs,Heist Contracts found in your Maps are #% more likely to require level 4 Jobs,75–125
+Burial Idol,3x1,Prefix,Incursion,Your Maps have (192–240)% increased chance to contain Alva,Your Maps have #% increased chance to contain Alva,192–240
+Burial Idol,3x1,Prefix,Beyond,(40–60)% chance for your Maps to attract Beyond Demons,#% chance for your Maps to attract Beyond Demons,40–60
+Burial Idol,3x1,Prefix,Delirium,Your Maps have +(40–60)% chance to contain a Mirror of Delirium,Your Maps have +#% chance to contain a Mirror of Delirium,40–60
+Burial Idol,3x1,Prefix,Delve,Your Maps have (192–240)% increased chance to contain Niko,Your Maps have #% increased chance to contain Niko,192–240
+Burial Idol,3x1,Prefix,Shrine,Your Maps have +(15–25)% chance to contain a Shrine,Your Maps have +#% chance to contain a Shrine,15–25
+Burial Idol,3x1,Prefix,Trials,Your Maps have +(8–12)% chance to contain a Trial of Ascendancy,Your Maps have +#% chance to contain a Trial of Ascendancy,8–12
+Burial Idol,3x1,Prefix,Legion,Your Maps have (192–240)% increased chance to contain a Legion Encounter,Your Maps have #% increased chance to contain a Legion Encounter,192–240
+Burial Idol,3x1,Prefix,Ritual,Your Maps have (192–240)% increased chance to contain Ritual Altars,Your Maps have #% increased chance to contain Ritual Altars,192–240
+Burial Idol,3x1,Suffix,Incursion,Killing non-resident Architects in your Maps has (30–50)% chance to add an additional Upgrade Tier to the surviving Architect's Room,Killing non-resident Architects in your Maps has #% chance to add an additional Upgrade Tier to the surviving Architect's Room,30–50
+Burial Idol,3x1,Suffix,Bestiary,Red Beasts captured in your Maps have a (40–60)% chance to gain a Modifier that provides a chance to not to be consumed when sacrificed at the Blood Altar,Red Beasts captured in your Maps have a #% chance to gain a Modifier that provides a chance to not to be consumed when sacrificed at the Blood Altar,40–60
+Burial Idol,3x1,Suffix,Blight,Blight Encounters in your Maps spawn (25–35)% more Non-Unique Monsters,Blight Encounters in your Maps spawn #% more Non-Unique Monsters,25–35
+Burial Idol,3x1,Suffix,Harbinger,Harbingers in your Maps have (20–25)% chance to be replaced by a powerful Harbinger boss,Harbingers in your Maps have #% chance to be replaced by a powerful Harbinger boss,20–25
+Burial Idol,3x1,Suffix,Heist,Heist Contracts found in your Maps are (70–90)% more likely to target High Value Targets,Heist Contracts found in your Maps are #% more likely to target High Value Targets,70–90
+Burial Idol,3x1,Suffix,Ultimatum,Inscribed Ultimatums found in your Maps have (40–60)% increased chance to reward Divination Cards,Inscribed Ultimatums found in your Maps have #% increased chance to reward Divination Cards,40–60
+Burial Idol,3x1,Suffix,Strongboxes,Currency Items from Strongboxes in your Maps are Duplicated,Currency Items from Strongboxes in your Maps are Duplicated,100
+Totemic Idol,1x3,Prefix,Ultimatmum,Your Maps have +(40–60)% chance to contain an Ultimatum Encounter,Your Maps have +#% chance to contain an Ultimatum Encounter,40–60
+Totemic Idol,1x3,Suffix,Rogue Exiles,Wild Rogue Exiles in your Maps have (75–100)% chance to be Possessed by a Tormented Spirit,Wild Rogue Exiles in your Maps have #% chance to be Possessed by a Tormented Spirit,75–100
+Totemic Idol,1x3,Suffix,Blight,Blight Encounters in your Maps spawn (25–35)% more Non-Unique Monsters,Blight Encounters in your Maps spawn #% more Non-Unique Monsters,25–35
+Totemic Idol,1x3,Suffix,Delirium,Delirium Rewards in your Maps have (8–12)% increased chance to give Delirium Orbs,Delirium Rewards in your Maps have #% increased chance to give Delirium Orbs,8–12
+Totemic Idol,1x3,Suffix,Expedition,Expeditions in your Maps have (50–60)% increased chance to be led by Dannig,Expeditions in your Maps have #% increased chance to be led by Dannig,50–60
+Totemic Idol,1x3,Suffix,Heist,Legion Encounters in your Maps have (75–100)% increased chance to include a Templar army,Legion Encounters in your Maps have #% increased chance to include a Templar army,75–100
+Totemic Idol,1x3,Suffix,Heist,Splinters contained in Legion Chests in your Maps have (20–25)% chance to be Duplicated,Splinters contained in Legion Chests in your Maps have #% chance to be Duplicated,20–25
+Totemic Idol,1x3,Suffix,Ultimatum,Ultimatum Encounters in your Maps spawn (15–20)% increased number of Monsters,Ultimatum Encounters in your Maps spawn #% increased number of Monsters,15–20
+Totemic Idol,1x3,Suffix,Ritual,Deferring Favours at Ritual Altars in your Maps costs (15–20)% reduced Tribute,Deferring Favours at Ritual Altars in your Maps costs #% reduced Tribute,15–20
+Totemic Idol,1x3,Suffix,Scarabs,Final Map Boss in each Map has (20–25)% chance to drop an additional Scarab,Final Map Boss in each Map has #% chance to drop an additional Scarab,20–25
+Totemic Idol,1x3,Suffix,Strongboxes,Divination Cards from Strongboxes in your Maps are Duplicated,Divination Cards from Strongboxes in your Maps are Duplicated,100
+Conqueror Idol,2x2,Prefix,Rogue Exiles,Your Maps have +(20–30)% chance to contain a Rogue Exile,Your Maps have +#% chance to contain a Rogue Exile,20–30
+Conqueror Idol,2x2,Prefix,Beyond,Your Maps have (224–280)% increased chance to contain a Blight Encounter,Your Maps have #% increased chance to contain a Blight Encounter,224–280
+Conqueror Idol,2x2,Suffix,Blight,Varieties of Items contained in (3–5) Blight Chests in your Maps are Lucky,Varieties of Items contained in # Blight Chests in your Maps are Lucky,3–5
+Conqueror Idol,2x2,Suffix,Breach,"Breaches in your Maps have (2–3)% chance to contain Xesht-Ula, the Open Hand","Breaches in your Maps have #% chance to contain Xesht-Ula, the Open Hand",2–3
+Conqueror Idol,2x2,Suffix,Harvest,Plants Harvested in your Maps have (4–8)% chance to spawn duplicated Monsters,Plants Harvested in your Maps have #% chance to spawn duplicated Monsters,4–8
+Conqueror Idol,2x2,Suffix,Heist,Your Maps that contain Smuggler's Caches have a (4–6)% chance to contain 6 additional Smuggler's Caches,Your Maps that contain Smuggler's Caches have a #% chance to contain 6 additional Smuggler's Caches,4–6
+Conqueror Idol,2x2,Suffix,Ultimatum,Ultimatum Boss drops a full stack of a random Catalyst,Ultimatum Boss drops a full stack of a random Catalyst,100
+Minor Idol,1x1,Prefix,Scarabs,(5–10)% increased Scarabs found in your Maps,#% increased Scarabs found in your Maps,5–10
+Minor Idol,1x1,Suffix,Bestiary,Red Beasts in your Maps have (40–60)% increased chance to be from The Sands,Red Beasts in your Maps have #% increased chance to be from The Sands,40–60
+Minor Idol,1x1,Suffix,Expedition,(15–25)% increased Quantity of Expedition Logbooks dropped by Runic Monsters in your Maps,#% increased Quantity of Expedition Logbooks dropped by Runic Monsters in your Maps,15–25
+Minor Idol,1x1,Suffix,Legion,Legion Encounters in your Maps are (25–35)% more likely to include a General,Legion Encounters in your Maps are #% more likely to include a General,25–35
+Minor Idol,1x1,Suffix,Ritual,Unique Monsters slain at Ritual Altars in your Maps grant (40–60)% more Tribute,Unique Monsters slain at Ritual Altars in your Maps grant #% more Tribute,40–60
+Minor Idol,1x1,Suffix,Strongboxes,Strongboxes in your Maps have (50–70)% increased chance to be a Diviner's Strongbox,Strongboxes in your Maps have #% increased chance to be a Diviner's Strongbox,50–70
+Minor Idol,1x1,Suffix,Scouting Reports,(6–10)% chance for Scouting Reports to drop as Comprehensive Scouting Reports instead in your Maps,#% chance for Scouting Reports to drop as Comprehensive Scouting Reports instead in your Maps,6–10
+Kamasan Idol,1x2,Prefix,Blight,Your Maps have (144–180)% increased chance to contain a Blight Encounter,Your Maps have #% increased chance to contain a Blight Encounter,144–180
+Kamasan Idol,1x2,Prefix,Heist,(20–25)% increased Blueprints found in your Maps,#% increased Blueprints found in your Maps,20–25
+Kamasan Idol,1x2,Prefix,Legion,Your Maps have (144–180)% increased chance to contain a Legion Encounter,Your Maps have #% increased chance to contain a Legion Encounter,144–180
+Kamasan Idol,1x2,Prefix,Maps,+(1.2–1.8)% chance for a Synthesis Map to drop from Final Map Boss in each Map (Tier 14+),+#% chance for a Synthesis Map to drop from Final Map Boss in each Map (Tier 14+),1.2-1.8
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Anarchy Scarabs,Scarabs dropped in your Maps are #% more likely to be Anarchy Scarabs,60–80
+Noble Idol,2x1,Prefix,Rogue Exiles,Your Maps have +(12–18)% chance to contain a Rogue Exile,Your Maps have +#% chance to contain a Rogue Exile,12–18
+Noble Idol,2x1,Suffix,Blight,(15–25)% chance for Blight Chests to contain an additional Reward,#% chance for Blight Chests to contain an additional Reward,15–25
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Harbinger Scarabs,Scarabs dropped in your Maps are #% more likely to be Harbinger Scarabs,60–80
+Burial Idol,3x1,Prefix,Breach,Your Maps have +(40–60)% chance to contain Breaches,Your Maps have +#% chance to contain Breaches,40–60
+Burial Idol,3x1,Prefix,Delirium,Your Maps have (192–240)% increased chance to contain a Mirror of Delirium,Your Maps have #% increased chance to contain a Mirror of Delirium,192–240
+Burial Idol,3x1,Suffix,Beyond,Beyond Demons in your Maps grant (20–30)% increased Experience,Beyond Demons in your Maps grant #% increased Experience,20–30
+Burial Idol,3x1,Suffix,Delirium,Delirium in your Maps increases (35–50)% faster with distance from the mirror,Delirium in your Maps increases #% faster with distance from the mirror,35–50
+Burial Idol,3x1,Suffix,Expedition,Expeditions in your Maps have (80–100)% increased chance to be led by Gwennen,Expeditions in your Maps have #% increased chance to be led by Gwennen,80–100
+Burial Idol,3x1,Suffix,Vaal,Items dropped by Unique Monsters have (10–15)% chance to be Corrupted,Items dropped by Unique Monsters have #% chance to be Corrupted,10–15
+Totemic Idol,1x3,Prefix,Abyss,Your Maps have +(40–60)% chance to contain an Abyss,Your Maps have +#% chance to contain an Abyss,40–60
+Totemic Idol,1x3,Prefix,Shrine,Your Maps contain an additional Shrine,Your Maps contain an additional Shrine,100
+Totemic Idol,1x3,Suffix,Delirium,Delirium in your Maps increases (35–50)% faster with distance from the mirror,Delirium in your Maps increases #% faster with distance from the mirror,35–50
+Totemic Idol,1x3,Suffix,Ultimatum,Ultimatum Monsters in your Maps grant (40–60)% increased Experience,Ultimatum Monsters in your Maps grant #% increased Experience,40–60
+Totemic Idol,1x3,Suffix,Strongboxes,Maps from Strongboxes in your Maps are Duplicated,Maps from Strongboxes in your Maps are Duplicated,100
+Conqueror Idol,2x2,Prefix,Expedition,Your Maps have (224–280)% increased chance to contain an Expedition Encounter,Your Maps have #% increased chance to contain an Expedition Encounter,224–280
+Conqueror Idol,2x2,Suffix,Delve,You Gain +(2–3)% to all maximum Elemental Resistances per stack of Sulphite Intoxication.,You Gain +#% to all maximum Elemental Resistances per stack of Sulphite Intoxication.,2–3
+Conqueror Idol,2x2,Suffix,Trials,Labyrinth Trials in your Maps have (20–25)% chance to award an Improved Offering to the Goddess,Labyrinth Trials in your Maps have #% chance to award an Improved Offering to the Goddess,20–25
+Minor Idol,1x1,Prefix,Incursion,Your Maps have (80–100)% increased chance to contain Alva,Your Maps have #% increased chance to contain Alva,80–100
+Minor Idol,1x1,Prefix,Bestiary,Your Maps have +(15–25)% chance to contain Einhar,Your Maps have +#% chance to contain Einhar,15–25
+Minor Idol,1x1,Prefix,Heist,Your Maps have (80–100)% increased chance to contain a Smuggler's Cache,Your Maps have #% increased chance to contain a Smuggler's Cache,80–100
+Minor Idol,1x1,Suffix,Breach,"Esh, Forked Thought in your Maps has a (20–30)% chance to be Duplicated","Esh, Forked Thought in your Maps has a #% chance to be Duplicated",20–30
+Minor Idol,1x1,Suffix,Delirium,Delirium Encounters in your Maps are (35–50)% more likely to spawn Unique Bosses,Delirium Encounters in your Maps are #% more likely to spawn Unique Bosses,35–50
+Minor Idol,1x1,Suffix,Ritual,Favours Deferred at Ritual Altars in your Maps reappear (20–30)% sooner,Favours Deferred at Ritual Altars in your Maps reappear #% sooner,20–30
+Minor Idol,1x1,Suffix,Eater,Eldritch Ichor found in your Maps influenced by The Eater of Worlds have (4–6)% chance to be Duplicated,Eldritch Ichor found in your Maps influenced by The Eater of Worlds have #% chance to be Duplicated,4–6
+Minor Idol,1x1,Suffix,Scouting Reports,(4–6)% chance for Scouting Reports to drop as Singular Scouting Reports instead in your Maps,#% chance for Scouting Reports to drop as Singular Scouting Reports instead in your Maps,4–6
+Kamasan Idol,1x2,Prefix,Delirium,Your Maps have +(30–45)% chance to contain a Mirror of Delirium,Your Maps have +#% chance to contain a Mirror of Delirium,30–45
+Kamasan Idol,1x2,Prefix,Strongboxes,Your Maps have +(60–80)% chance to contain a Strongbox,Your Maps have +#% chance to contain a Strongbox,60–80
+Kamasan Idol,1x2,Prefix,Torment,Your Maps have a (60–80)% chance to be haunted by an additional Tormented Spirit,Your Maps have a #% chance to be haunted by an additional Tormented Spirit,60–80
+Kamasan Idol,1x2,Suffix,Delve,You Gain (8–12)% increased Movement Speed per stack of Sulphite Intoxication.,You Gain #% increased Movement Speed per stack of Sulphite Intoxication.,8–12
+Kamasan Idol,1x2,Suffix,Ultimatum,Ultimatum Encounters in your Maps only requiring you to Survive have (3–5)% reduced duration,Ultimatum Encounters in your Maps only requiring you to Survive have #% reduced duration,3–5
+Kamasan Idol,1x2,Suffix,Torment,Tormented Spirits have a (1–2)% chance to be set free when Possessed Monsters are slain,Tormented Spirits have a #% chance to be set free when Possessed Monsters are slain,1–2
+Noble Idol,2x1,Prefix,Delve,Your Maps have (144–180)% increased chance to contain Niko,Your Maps have #% increased chance to contain Niko,144–180
+Noble Idol,2x1,Prefix,Ritual,Your Maps have +(30–45)% chance to contain Ritual Altars,Your Maps have +#% chance to contain Ritual Altars,30–45
+Noble Idol,2x1,Suffix,Abyss,Abyss Monsters in your Maps grant (30–40)% increased Experience,Abyss Monsters in your Maps grant #% increased Experience,30–40
+Noble Idol,2x1,Suffix,Bestiary,Einhar deals (600–800)% more Damage to Unique Monsters in your Maps,Einhar deals #% more Damage to Unique Monsters in your Maps,600–800
+Noble Idol,2x1,Suffix,Delirium,Delirium Bosses in your Maps have (30–40)% increased chance to drop Unique Cluster Jewels,Delirium Bosses in your Maps have #% increased chance to drop Unique Cluster Jewels,30–40
+Noble Idol,2x1,Suffix,Harvest,Harvest Crops in your Maps have (25–35)% increased chance to contain Tier 3 Plants,Harvest Crops in your Maps have #% increased chance to contain Tier 3 Plants,25–35
+Noble Idol,2x1,Suffix,Heist,Your Maps that contain Smuggler's Caches have a (25–35)% chance to contain an additional Smuggler's Cache,Your Maps that contain Smuggler's Caches have a #% chance to contain an additional Smuggler's Cache,25–35
+Noble Idol,2x1,Suffix,Ritual,Ritual Altars in your Maps can have (15–25)% increased number of Spawned Monsters at once,Ritual Altars in your Maps can have #% increased number of Spawned Monsters at once,15–25
+Burial Idol,3x1,Prefix,Abyss,Your Maps have +(40–60)% chance to contain an Abyss,Your Maps have +#% chance to contain an Abyss,40–60
+Burial Idol,3x1,Prefix,Breach,Your Maps have (192–240)% increased chance to contain a Breach,Your Maps have #% increased chance to contain a Breach,192–240
+Burial Idol,3x1,Prefix,Breach,Your Maps which contain Breaches have (5–10)% chance to contain three additional Breaches,Your Maps which contain Breaches have #% chance to contain three additional Breaches,5–10
+Burial Idol,3x1,Prefix,Heist,Your Maps have (192–240)% increased chance to contain a Smuggler's Cache,Your Maps have #% increased chance to contain a Smuggler's Cache,192–240
+Burial Idol,3x1,Suffix,Essence,Imprisoned Monsters in your Maps have (12–17)% chance to have 3 additional Essences,Imprisoned Monsters in your Maps have #% chance to have 3 additional Essences,12–17
+Burial Idol,3x1,Suffix,Expedition,Expeditions in your Maps have (50–60)% increased chance to be led by Dannig,Expeditions in your Maps have #% increased chance to be led by Dannig,50–60
+Burial Idol,3x1,Suffix,Expedition,Expeditions in your Maps have (80–100)% increased chance to be led by Rog,Expeditions in your Maps have #% increased chance to be led by Rog,80–100
+Burial Idol,3x1,Suffix,Heist,Heist Contracts found in your Maps are (45–65)% more likely to target Precious Targets,Heist Contracts found in your Maps are #% more likely to target Precious Targets,45–65
+Burial Idol,3x1,Suffix,Heist,Legion Encounters in your Maps have (80–120)% increased chance to include a Vaal army,Legion Encounters in your Maps have #% increased chance to include a Vaal army,80–120
+Burial Idol,3x1,Suffix,Heist,Legion Encounters in your Maps have (75–100)% increased chance to include a Templar army,Legion Encounters in your Maps have #% increased chance to include a Templar army,75–100
+Totemic Idol,1x3,Prefix,Delirium,Your Maps have +(40–60)% chance to contain a Mirror of Delirium,Your Maps have +#% chance to contain a Mirror of Delirium,40–60
+Totemic Idol,1x3,Prefix,Torment,Your Maps have +(15–25)% chance to be haunted by a Tormented Spirit,Your Maps have +#% chance to be haunted by a Tormented Spirit,15–25
+Totemic Idol,1x3,Prefix,Torment,Your Maps are haunted by an additional Tormented Spirit,Your Maps are haunted by an additional Tormented Spirit,100
+Totemic Idol,1x3,Suffix,Abyss,Abysses in your Maps that do not lead to an Abyssal Depths have (40–60)% increased chance to lead to a Stygian Spire,Abysses in your Maps that do not lead to an Abyssal Depths have #% increased chance to lead to a Stygian Spire,40–60
+Totemic Idol,1x3,Suffix,Incursion,Killing non-resident Architects in your Maps has (30–50)% chance to add an additional Upgrade Tier to the surviving Architect's Room,Killing non-resident Architects in your Maps has #% chance to add an additional Upgrade Tier to the surviving Architect's Room,30–50
+Totemic Idol,1x3,Suffix,Bestiary,Red Beasts in your Maps have (16–24)% chance to appear in Pairs,Red Beasts in your Maps have #% chance to appear in Pairs,16–24
+Totemic Idol,1x3,Suffix,Shrine,Shrines in your Maps have (40–60)% chance to be guarded by an additional Pack of Monsters,Shrines in your Maps have #% chance to be guarded by an additional Pack of Monsters,40–60
+Totemic Idol,1x3,Suffix,Harbinger,Harbingers in your Maps have (20–25)% chance to be replaced by a powerful Harbinger boss,Harbingers in your Maps have #% chance to be replaced by a powerful Harbinger boss,20–25
+Totemic Idol,1x3,Suffix,Legion,Legion Encounters in your Maps have (100–150)% increased chance to include a Karui army,Legion Encounters in your Maps have #% increased chance to include a Karui army,100–150
+Totemic Idol,1x3,Suffix,Pack Size,(5–10)% increased Pack Size of your Maps affected by Fortune Favours the Brave,#% increased Pack Size of your Maps affected by Fortune Favours the Brave,5–10
+Totemic Idol,1x3,Suffix,Scarabs,Rare Monsters in your Maps have (40–60)% increased chance to drop Scarabs per Monster Modifier affecting them,Rare Monsters in your Maps have #% increased chance to drop Scarabs per Monster Modifier affecting them,40–60
+Totemic Idol,1x3,Suffix,Strongboxes,Gems contained in Strongboxes in your Maps are Duplicated,Gems contained in Strongboxes in your Maps are Duplicated,100
+Conqueror Idol,2x2,Prefix,Delirium,Your Maps have (224–280)% increased chance to contain a Mirror of Delirium,Your Maps have #% increased chance to contain a Mirror of Delirium,224–280
+Conqueror Idol,2x2,Prefix,Shrine,Your Maps contain an additional Shrine,Your Maps contain an additional Shrine,100
+Conqueror Idol,2x2,Prefix,Heist,Your Maps have +(45–70)% chance to contain a Smuggler's Cache,Your Maps have +#% chance to contain a Smuggler's Cache,45–70
+Conqueror Idol,2x2,Prefix,Ultimatum,Your Maps have +(45–70)% chance to contain an Ultimatum Encounter,Your Maps have +#% chance to contain an Ultimatum Encounter,45–70
+Conqueror Idol,2x2,Suffix,Abyss,Abyss Jewels found in Abyssal Troves or dropped by Stygian Spires in your Maps have (15–25)% chance to be Corrupted and have 5 or 6 random Modifiers,Abyss Jewels found in Abyssal Troves or dropped by Stygian Spires in your Maps have #% chance to be Corrupted and have 5 or 6 random Modifiers,15–25
+Conqueror Idol,2x2,Suffix,Abyss,Abysses in your Maps spawn (8–12)% increased Monsters for each prior Pit in that Abyss,Abysses in your Maps spawn #% increased Monsters for each prior Pit in that Abyss,8–12
+Conqueror Idol,2x2,Suffix,Incursion,Time gained from Kills is Doubled for Incursions in your Maps,Time gained from Kills is Doubled for Incursions in your Maps,100
+Conqueror Idol,2x2,Suffix,Heist,Smuggler's Caches in your Maps have (10–15)% increased chance to contain Blueprints for each Smuggler's Cache opened in the Map,Smuggler's Caches in your Maps have #% increased chance to contain Blueprints for each Smuggler's Cache opened in the Map,10–15
+Conqueror Idol,2x2,Suffix,Pack Size,Synthesised Monsters in Synthesis Maps have (20–30)% increased Pack Size,Synthesised Monsters in Synthesis Maps have #% increased Pack Size,20–30
+Minor Idol,1x1,Prefix,Essence,Your Maps have (35–50)% chance to contain an additional Imprisoned Monster,Your Maps have #% chance to contain an additional Imprisoned Monster,35–50
+Minor Idol,1x1,Prefix,Expedition,Your Maps have +(15–25)% chance to contain an Expedition Encounter,Your Maps have +#% chance to contain an Expedition Encounter,15–25
+Minor Idol,1x1,Prefix,Strongboxes,Your Maps have +(35–50)% chance to contain a Strongbox,Your Maps have +#% chance to contain a Strongbox,35–50
+Minor Idol,1x1,Prefix,Torment,Your Maps have a (35–50)% chance to be haunted by an additional Tormented Spirit,Your Maps have a #% chance to be haunted by an additional Tormented Spirit,35–50
+Minor Idol,1x1,Suffix,Essence,Imprisoned Monsters in your Maps have (40–60)% chance to drop an additional Rare Item with an Essence Modifier,Imprisoned Monsters in your Maps have #% chance to drop an additional Rare Item with an Essence Modifier,40–60
+Kamasan Idol,1x2,Prefix,Bestiary,Your Maps have +(30–45)% chance to contain Einhar,Your Maps have +#% chance to contain Einhar,30–45
+Kamasan Idol,1x2,Prefix,Harvest,Your Maps have +(30–45)% chance to contain The Sacred Grove,Your Maps have +#% chance to contain The Sacred Grove,30–45
+Kamasan Idol,1x2,Suffix,Rogue Exiles,(30–40)% increased Rarity of Items Dropped by Wild Rogue Exiles in your Maps,#% increased Rarity of Items Dropped by Wild Rogue Exiles in your Maps,30–40
+Kamasan Idol,1x2,Suffix,Delirium,Delirium Fog in your Maps dissipates (2–5)% slower,Delirium Fog in your Maps dissipates #% slower,2–5
+Kamasan Idol,1x2,Suffix,Essence,Monsters Imprisoned by Essences have a (20–25)% chance to contain a Remnant of Corruption,Monsters Imprisoned by Essences have a #% chance to contain a Remnant of Corruption,20–25
+Kamasan Idol,1x2,Suffix,Harvest,Harvest Crops in your Maps have (35–45)% increased chance to contain a Tier 4 Plant,Harvest Crops in your Maps have #% increased chance to contain a Tier 4 Plant,35–45
+Noble Idol,2x1,Prefix,Incursion,Your Maps have +(30–45)% chance to contain Alva,Your Maps have +#% chance to contain Alva,30–45
+Noble Idol,2x1,Prefix,Blight,Your Maps have (144–180)% increased chance to contain a Blight Encounter,Your Maps have #% increased chance to contain a Blight Encounter,144–180
+Noble Idol,2x1,Prefix,Harbinger,Your Maps have a (60–80)% chance to contain an additional Harbinger,Your Maps have a #% chance to contain an additional Harbinger,60–80
+Noble Idol,2x1,Prefix,Harvest,Your Maps have +(30–45)% chance to contain The Sacred Grove,Your Maps have +#% chance to contain The Sacred Grove,30–45
+Noble Idol,2x1,Prefix,Maps,+(1.2–1.8)% chance for a Synthesis Map to drop from Final Map Boss in each Map (Tier 14+),+#% chance for a Synthesis Map to drop from Final Map Boss in each Map (Tier 14+),1.2-1.8
+Noble Idol,2x1,Suffix,Abyss,Abysses in your Maps spawn (12–18)% increased Monsters,Abysses in your Maps spawn #% increased Monsters,12–18
+Noble Idol,2x1,Suffix,Beyond,Beyond Portals in your Maps have (20–25)% increased Merging Radius,Beyond Portals in your Maps have #% increased Merging Radius,20–25
+Noble Idol,2x1,Suffix,Breach,Breach Bosses in your Maps have (12–16)% chance to drop double Breach Splinters,Breach Bosses in your Maps have #% chance to drop double Breach Splinters,12–16
+Noble Idol,2x1,Suffix,Delve,You Gain (8–12)% increased Movement Speed per stack of Sulphite Intoxication.,You Gain #% increased Movement Speed per stack of Sulphite Intoxication.,8–12
+Noble Idol,2x1,Suffix,Legion,Legion Monsters in your Maps take (30–40)% increased Damage while in Stasis,Legion Monsters in your Maps take #% increased Damage while in Stasis,30–40
+Burial Idol,3x1,Prefix,Betrayal,Your Maps have +(40–60)% chance to contain Jun,Your Maps have +#% chance to contain Jun,40–60
+Burial Idol,3x1,Prefix,Strongboxes,Your Maps contain an additional Strongbox,Your Maps contain an additional Strongbox,100
+Burial Idol,3x1,Suffix,Blight,Oils found in your Maps have (20–25)% chance to be 1 tier higher,Oils found in your Maps have #% chance to be 1 tier higher,20–25
+Burial Idol,3x1,Suffix,Heist,Smuggler's Caches in your Maps have (40–60)% increased chance to drop Contracts,Smuggler's Caches in your Maps have #% increased chance to drop Contracts,40–60
+Burial Idol,3x1,Suffix,Heist,(40–60)% increased Rarity of Items Dropped by Immortal Syndicate Members in your Maps,#% increased Rarity of Items Dropped by Immortal Syndicate Members in your Maps,40–60
+Burial Idol,3x1,Suffix,Legion,Legion Encounters in your Maps have (100–150)% increased chance to include a Karui army,Legion Encounters in your Maps have #% increased chance to include a Karui army,100–150
+Burial Idol,3x1,Suffix,Heist,Legion Encounters in your Maps have (60–80)% increased chance to include a Maraketh army,Legion Encounters in your Maps have #% increased chance to include a Maraketh army,60–80
+Burial Idol,3x1,Suffix,Ultimatum,Inscribed Ultimatums found in your Maps have (40–60)% increased chance to reward Unique Items,Inscribed Ultimatums found in your Maps have #% increased chance to reward Unique Items,40–60
+Burial Idol,3x1,Suffix,Ritual,Ritual Altars in your Maps spawn Monsters (15–20)% faster,Ritual Altars in your Maps spawn Monsters #% faster,15–20
+Totemic Idol,1x3,Prefix,Delirium,Your Maps have (192–240)% increased chance to contain a Mirror of Delirium,Your Maps have #% increased chance to contain a Mirror of Delirium,192–240
+Totemic Idol,1x3,Suffix,Abyss,Abyss Pits in your Maps have (10–20)% chance to spawn all Monsters as at least Magic,Abyss Pits in your Maps have #% chance to spawn all Monsters as at least Magic,10–20
+Totemic Idol,1x3,Suffix,Bestiary,Red Beasts captured in your Maps have a (40–60)% chance to gain a Modifier that provides a chance to not to be consumed when sacrificed at the Blood Altar,Red Beasts captured in your Maps have a #% chance to gain a Modifier that provides a chance to not to be consumed when sacrificed at the Blood Altar,40–60
+Totemic Idol,1x3,Suffix,Heist,Splinters dropped by Legion Monsters or contained in Legion Chests in your Maps have (15–20)% chance to be Duplicated,Splinters dropped by Legion Monsters or contained in Legion Chests in your Maps have #% chance to be Duplicated,15–20
+Totemic Idol,1x3,Suffix,Ritual,Monsters Sacrificed at Ritual Altars in your Maps grant (20–25)% increased Tribute,Monsters Sacrificed at Ritual Altars in your Maps grant #% increased Tribute,20–25
+Conqueror Idol,2x2,Prefix,Essence,Your Maps have +(20–30)% chance to contain an Imprisoned Monster,Your Maps have +#% chance to contain an Imprisoned Monster,20–30
+Conqueror Idol,2x2,Prefix,Harbinger,Your Maps contain an additional Harbinger,Your Maps contain an additional Harbinger,100
+Conqueror Idol,2x2,Suffix,Blight,Completing a Blight Encounter in your Maps grants all Players Blightreach,Completing a Blight Encounter in your Maps grants all Players Blightreach,100
+Conqueror Idol,2x2,Suffix,Essence,Imprisoned Monsters in your Maps have at least 1 Essence at the highest possible tier,Imprisoned Monsters in your Maps have at least 1 Essence at the highest possible tier,100
+Conqueror Idol,2x2,Suffix,Heist,Huck accompanies you on opening the first Smuggler's Cache in each of your Maps,Huck accompanies you on opening the first Smuggler's Cache in each of your Maps,100
+Conqueror Idol,2x2,Suffix,Legion,Legion Encounters in your Maps contain 2 additional Sergeants,Legion Encounters in your Maps contain 2 additional Sergeants,100
+Minor Idol,1x1,Prefix,Breach,Your Maps which contain Breaches have (15–25)% chance to contain an additional Breach,Your Maps which contain Breaches have #% chance to contain an additional Breach,15–25
+Minor Idol,1x1,Prefix,Heist,(10–15)% increased Heist Contracts found in your Maps,#% increased Heist Contracts found in your Maps,10–15
+Minor Idol,1x1,Suffix,Abyss,Abyssal Troves and Stygian Spires in your Maps have (6–10)% chance to drop a Rare Item with an Abyssal Socket,Abyssal Troves and Stygian Spires in your Maps have #% chance to drop a Rare Item with an Abyssal Socket,6–10
+Minor Idol,1x1,Suffix,Heist,Smuggler's Caches in your Maps have (35–45)% increased chance to drop Blueprints,Smuggler's Caches in your Maps have #% increased chance to drop Blueprints,35–45
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (20–30)% increased chance to be Unique Items,Ultimatum Rewards in your Maps have #% increased chance to be Unique Items,20–30
+Kamasan Idol,1x2,Prefix,Rogue Exiles,Your Maps have a (30–45)% chance to contain an additional Rogue Exile,Your Maps have a #% chance to contain an additional Rogue Exile,30–45
+Kamasan Idol,1x2,Prefix,Heist,Your Maps have +(30–45)% chance to contain a Smuggler's Cache,Your Maps have +#% chance to contain a Smuggler's Cache,30–45
+Kamasan Idol,1x2,Prefix,Vaal,Your Maps have +(5–8)% chance to contain a Vaal Side Area,Your Maps have +#% chance to contain a Vaal Side Area,5–8
+Kamasan Idol,1x2,Suffix,Rogue Exiles,Rogue Exiles in your Maps have (15–20)% chance to drop an additional Currency Item,Rogue Exiles in your Maps have #% chance to drop an additional Currency Item,15–20
+Kamasan Idol,1x2,Suffix,Bestiary,Einhar deals (600–800)% more Damage to Unique Monsters in your Maps,Einhar deals #% more Damage to Unique Monsters in your Maps,600–800
+Kamasan Idol,1x2,Suffix,Breach,Breaches in your Maps have (80–120)% increased chance to belong to Xoph,Breaches in your Maps have #% increased chance to belong to Xoph,80–120
+Kamasan Idol,1x2,Suffix,Breach,Breaches in your Maps have (80–120)% increased chance to belong to Esh,Breaches in your Maps have #% increased chance to belong to Esh,80–120
+Kamasan Idol,1x2,Suffix,Ultimatum,Ultimatum Stone Circles in your Maps have (15–20)% increased radius,Ultimatum Stone Circles in your Maps have #% increased radius,15–20
+Noble Idol,2x1,Prefix,Incursion,Your Maps have (144–180)% increased chance to contain Alva,Your Maps have #% increased chance to contain Alva,144–180
+Noble Idol,2x1,Prefix,Bestiary,Your Maps have (144–180)% increased chance to contain Einhar,Your Maps have #% increased chance to contain Einhar,144–180
+Noble Idol,2x1,Suffix,Rogue Exiles,(30–40)% increased Rarity of Items Dropped by Wild Rogue Exiles in your Maps,#% increased Rarity of Items Dropped by Wild Rogue Exiles in your Maps,30–40
+Noble Idol,2x1,Suffix,Delirium,Delirium Fog in your Maps dissipates (2–5)% slower,Delirium Fog in your Maps dissipates #% slower,2–5
+Noble Idol,2x1,Suffix,Delirium,Cluster Jewels from Delirium Rewards have a (6–8)% chance to be Rare and Corrupted,Cluster Jewels from Delirium Rewards have a #% chance to be Rare and Corrupted,6–8
+Noble Idol,2x1,Suffix,Essence,Monsters Imprisoned by Essences have a (20–25)% chance to contain a Remnant of Corruption,Monsters Imprisoned by Essences have a #% chance to contain a Remnant of Corruption,20–25
+Noble Idol,2x1,Suffix,Ritual,(50–75)% increased chance of Ritual Altars with Special Rewards,#% increased chance of Ritual Altars with Special Rewards,50–75
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Beyond Scarabs,Scarabs dropped in your Maps are #% more likely to be Beyond Scarabs,60–80
+Burial Idol,3x1,Prefix,Bestiary,Your Maps have +(40–60)% chance to contain Einhar,Your Maps have +#% chance to contain Einhar,40–60
+Burial Idol,3x1,Prefix,Blight,Your Maps have (192–240)% increased chance to contain a Blight Encounter,Your Maps have #% increased chance to contain a Blight Encounter,192–240
+Burial Idol,3x1,Suffix,Pack Size,Monster Packs Influenced by The Elder in your Maps have (15–25)% increased Pack Size,Monster Packs Influenced by The Elder in your Maps have #% increased Pack Size,15–25
+Burial Idol,3x1,Suffix,Heist,Immortal Syndicate Members in your Maps have (40–60)% chance to drop an additional Veiled Item,Immortal Syndicate Members in your Maps have #% chance to drop an additional Veiled Item,40–60
+Totemic Idol,1x3,Prefix,Essence,Your Maps contain an additional Imprisoned Monster,Your Maps contain an additional Imprisoned Monster,100
+Totemic Idol,1x3,Prefix,Betrayal,Your Maps have (192–240)% increased chance to contain Jun,Your Maps have #% increased chance to contain Jun,192–240
+Totemic Idol,1x3,Prefix,Maps,Final Map Boss in each Map has (4–6)% chance to drop an additional connected Map,Final Map Boss in each Map has #% chance to drop an additional connected Map,4–6
+Totemic Idol,1x3,Suffix,Beyond,(20–25)% more Unique Items found from Beyond Demons in your Maps that are followers of Ghorr,#% more Unique Items found from Beyond Demons in your Maps that are followers of Ghorr,20–25
+Totemic Idol,1x3,Suffix,Delirium,Delirium Fog in your Maps lasts (10–15) additional seconds before dissipating,Delirium Fog in your Maps lasts # additional seconds before dissipating,10–15
+Totemic Idol,1x3,Suffix,Pack Size,Monster Packs Influenced by The Elder in your Maps have (15–25)% increased Pack Size,Monster Packs Influenced by The Elder in your Maps have #% increased Pack Size,15–25
+Totemic Idol,1x3,Suffix,Heist,Immortal Syndicate Members in your Maps have (20–25)% increased chance to be accompanied by reinforcements,Immortal Syndicate Members in your Maps have #% increased chance to be accompanied by reinforcements,20–25
+Conqueror Idol,2x2,Prefix,Rogue Exiles,Your Maps have a (45–70)% chance to contain an additional Rogue Exile,Your Maps have a #% chance to contain an additional Rogue Exile,45–70
+Conqueror Idol,2x2,Prefix,Shrine,Your Maps have +(20–30)% chance to contain a Shrine,Your Maps have +#% chance to contain a Shrine,20–30
+Conqueror Idol,2x2,Prefix,Maps,(8–12)% chance on Completing your Maps to gain a free use of a random Map Crafting option,#% chance on Completing your Maps to gain a free use of a random Map Crafting option,8–12
+Conqueror Idol,2x2,Prefix,Maps,(4–6)% increased Quantity of Items found in your Maps,#% increased Quantity of Items found in your Maps,4–6
+Conqueror Idol,2x2,Prefix,Maps,(2–3)% increased effect of Explicit Modifiers on your Maps per Explicit Modifier,#% increased effect of Explicit Modifiers on your Maps per Explicit Modifier,2–3
+Conqueror Idol,2x2,Suffix,Abyss,Abyss Pits in your Maps have (14–20)% chance to spawn 5 additional Rare Monsters,Abyss Pits in your Maps have #% chance to spawn 5 additional Rare Monsters,14–20
+Conqueror Idol,2x2,Suffix,Breach,Breaches in your Maps contain (2–3) additional Clasped Hands,Breaches in your Maps contain # additional Clasped Hands,2–3
+Conqueror Idol,2x2,Suffix,Delirium,Delirium Encounters in your Maps have (8–12)% chance to generate three additional Reward types,Delirium Encounters in your Maps have #% chance to generate three additional Reward types,8–12
+Conqueror Idol,2x2,Suffix,Delve,Voltaxic Sulphite Veins and Chests in your Maps are guarded by Sulphite-hoarding Monsters,Voltaxic Sulphite Veins and Chests in your Maps are guarded by Sulphite-hoarding Monsters,100
+Conqueror Idol,2x2,Suffix,Shrine,Shrines in your Maps grant a random additional Shrine Effect,Shrines in your Maps grant a random additional Shrine Effect,100
+Conqueror Idol,2x2,Suffix,Legion,(0.5–0.75)% chance for Timeless Splinters to drop as Timeless Emblems instead in your Maps,#% chance for Timeless Splinters to drop as Timeless Emblems instead in your Maps,0.5-0.75
+Conqueror Idol,2x2,Suffix,Strongboxes,Strongboxes in your Maps are Corrupted,Strongboxes in your Maps are Corrupted,100
+Minor Idol,1x1,Prefix,Heist,Your Maps have +(15–25)% chance to contain a Smuggler's Cache,Your Maps have +#% chance to contain a Smuggler's Cache,15–25
+Minor Idol,1x1,Prefix,Ritual,Your Maps have +(15–25)% chance to contain Ritual Altars,Your Maps have +#% chance to contain Ritual Altars,15–25
+Minor Idol,1x1,Suffix,Delirium,Delirium Bosses in your Maps drop (20–30)% increased Simulacrum Splinters,Delirium Bosses in your Maps drop #% increased Simulacrum Splinters,20–30
+Minor Idol,1x1,Suffix,Shrine,(30–40)% increased Duration of Shrine Effects on Players in your Maps,#% increased Duration of Shrine Effects on Players in your Maps,30–40
+Minor Idol,1x1,Suffix,Harvest,Harvest Crops in your Maps have (10–15)% reduced chance to grow Yellow Plants,Harvest Crops in your Maps have #% reduced chance to grow Yellow Plants,10–15
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps have (40–60)% increased chance to require you to protect the Altar,Ultimatum Encounters in your Maps have #% increased chance to require you to protect the Altar,40–60
+Minor Idol,1x1,Suffix,Strongboxes,Strongboxes in your Maps have (50–70)% increased chance to be a Cartographer's Strongbox,Strongboxes in your Maps have #% increased chance to be a Cartographer's Strongbox,50–70
+Kamasan Idol,1x2,Prefix,Incursion,Your Maps have +(30–45)% chance to contain Alva,Your Maps have +#% chance to contain Alva,30–45
+Kamasan Idol,1x2,Prefix,Beyond,(30–45)% chance for your Maps to attract Beyond Demons,#% chance for your Maps to attract Beyond Demons,30–45
+Kamasan Idol,1x2,Prefix,Torment,Your Maps have +(12–18)% chance to be haunted by a Tormented Spirit,Your Maps have +#% chance to be haunted by a Tormented Spirit,12–18
+Kamasan Idol,1x2,Suffix,Blight,Lanes of Blight Encounters in your Maps have (6–8)% chance for an additional Reward Chest,Lanes of Blight Encounters in your Maps have #% chance for an additional Reward Chest,6–8
+Kamasan Idol,1x2,Suffix,Delve,Voltaxic Sulphite Veins and Chests in your Maps contain (8–10)% increased Sulphite,Voltaxic Sulphite Veins and Chests in your Maps contain #% increased Sulphite,8–10
+Kamasan Idol,1x2,Suffix,Harbinger,Harbingers in your Maps have (40–60)% chance to drop an additional Stack of Currency Shards,Harbingers in your Maps have #% chance to drop an additional Stack of Currency Shards,40–60
+Kamasan Idol,1x2,Suffix,Heist,Heist Contracts found in your Maps are (75–125)% more likely to require level 3 Jobs,Heist Contracts found in your Maps are #% more likely to require level 3 Jobs,75–125
+Kamasan Idol,1x2,Suffix,Legion,Legion Monsters in your Maps take (30–40)% increased Damage while in Stasis,Legion Monsters in your Maps take #% increased Damage while in Stasis,30–40
+Kamasan Idol,1x2,Suffix,Ritual,(50–75)% increased chance of Ritual Altars with Special Rewards,#% increased chance of Ritual Altars with Special Rewards,50–75
+Noble Idol,2x1,Prefix,Breach,Your Maps have +(30–45)% chance to contain Breaches,Your Maps have +#% chance to contain Breaches,30–45
+Noble Idol,2x1,Prefix,Expedition,Your Maps have (144–180)% increased chance to contain an Expedition Encounter,Your Maps have #% increased chance to contain an Expedition Encounter,144–180
+Noble Idol,2x1,Prefix,Heist,Your Maps have (144–180)% increased chance to contain a Smuggler's Cache,Your Maps have #% increased chance to contain a Smuggler's Cache,144–180
+Noble Idol,2x1,Prefix,Heist,(20–25)% increased Blueprints found in your Maps,#% increased Blueprints found in your Maps,20–25
+Noble Idol,2x1,Prefix,Ritual,Your Maps have (144–180)% increased chance to contain Ritual Altars,Your Maps have #% increased chance to contain Ritual Altars,144–180
+Noble Idol,2x1,Suffix,Bestiary,Your Maps that contain capturable Beasts have (12–18)% chance to contain an additional Red Beast,Your Maps that contain capturable Beasts have #% chance to contain an additional Red Beast,12–18
+Noble Idol,2x1,Suffix,Blight,Blighted Chests in your Maps have (25–35)% increased chance to contain an Oil,Blighted Chests in your Maps have #% increased chance to contain an Oil,25–35
+Noble Idol,2x1,Suffix,Breach,(20–25)% increased Quantity of Breach Splinters dropped by Breach Monsters in your Maps,#% increased Quantity of Breach Splinters dropped by Breach Monsters in your Maps,20–25
+Noble Idol,2x1,Suffix,Delirium,Delirium Monsters in your Maps have (15–25)% increased chance to drop Cluster Jewels,Delirium Monsters in your Maps have #% increased chance to drop Cluster Jewels,15–25
+Noble Idol,2x1,Suffix,Ultimatum,Ultimatum Stone Circles in your Maps have (15–20)% increased radius,Ultimatum Stone Circles in your Maps have #% increased radius,15–20
+Burial Idol,3x1,Prefix,Expedition,Your Maps have (192–240)% increased chance to contain an Expedition Encounter,Your Maps have #% increased chance to contain an Expedition Encounter,192–240
+Burial Idol,3x1,Prefix,Ritual,Your Maps have +(40–60)% chance to contain Ritual Altars,Your Maps have +#% chance to contain Ritual Altars,40–60
+Burial Idol,3x1,Prefix,Torment,Up to 5 Rare Monsters in each of your Maps are Possessed and their Minions are Touched,Up to 5 Rare Monsters in each of your Maps are Possessed and their Minions are Touched,100
+Burial Idol,3x1,Prefix,Maps,Your Maps have (2–2.5)% chance to grant an additional Kirac Mission on Completion,Your Maps have #% chance to grant an additional Kirac Mission on Completion,2-2.5
+Burial Idol,3x1,Suffix,Abyss,Abysses in your Maps have (40–60)% increased chance to lead to an Abyssal Depths,Abysses in your Maps have #% increased chance to lead to an Abyssal Depths,40–60
+Burial Idol,3x1,Suffix,Strongboxes,Maps from Strongboxes in your Maps are Duplicated,Maps from Strongboxes in your Maps are Duplicated,100
+Burial Idol,3x1,Suffix,Eater,Monsters Influenced by The Eater of Worlds in your Maps have (0.8–1.2)% chance to drop an item with an Eater of Worlds Implicit Modifier,Monsters Influenced by The Eater of Worlds in your Maps have #% chance to drop an item with an Eater of Worlds Implicit Modifier,0.8-1.2
+Burial Idol,3x1,Suffix,Maps,(25–35)% increased Rarity of Maps found in your Maps,#% increased Rarity of Maps found in your Maps,25–35
+Totemic Idol,1x3,Prefix,Breach,Your Maps which contain Breaches have (5–10)% chance to contain three additional Breaches,Your Maps which contain Breaches have #% chance to contain three additional Breaches,5–10
+Totemic Idol,1x3,Prefix,Harbinger,Your Maps have a (15–25)% chance to contain an additional Harbinger,Your Maps have a #% chance to contain an additional Harbinger,15–25
+Totemic Idol,1x3,Prefix,Trials,Your Maps have +(8–12)% chance to contain a Trial of Ascendancy,Your Maps have +#% chance to contain a Trial of Ascendancy,8–12
+Totemic Idol,1x3,Prefix,Maps,(8–12)% increased effect of Explicit Modifiers on your Maps,#% increased effect of Explicit Modifiers on your Maps,8–12
+Totemic Idol,1x3,Suffix,Breach,Breaches in your Maps have (8–12)% increased Monster density,Breaches in your Maps have #% increased Monster density,8–12
+Totemic Idol,1x3,Suffix,Pack Size,Monster Packs Influenced by The Shaper in your Maps have (15–25)% increased Pack Size,Monster Packs Influenced by The Shaper in your Maps have #% increased Pack Size,15–25
+Totemic Idol,1x3,Suffix,Essence,Remnants in your Maps have (25–35)% chance to have an additional Suffix Modifier,Remnants in your Maps have #% chance to have an additional Suffix Modifier,25–35
+Totemic Idol,1x3,Suffix,Expedition,Expedition Monsters in your Maps spawn with an additional (6–10)% of Life missing,Expedition Monsters in your Maps spawn with an additional #% of Life missing,6–10
+Conqueror Idol,2x2,Prefix,Torment,Your Maps are haunted by an additional Tormented Spirit,Your Maps are haunted by an additional Tormented Spirit,100
+Conqueror Idol,2x2,Suffix,Incursion,Incursions in your Maps contain a Vaal Flesh Merchant,Incursions in your Maps contain a Vaal Flesh Merchant,100
+Conqueror Idol,2x2,Suffix,Incursion,Incursions in your Maps contain Cursed Treasures,Incursions in your Maps contain Cursed Treasures,100
+Conqueror Idol,2x2,Suffix,Bestiary,Beasts in your Maps have a (15–20)% chance to break free\nBeasts which break free in your Maps gain Bestial Rage\nDefeating Beasts grants Hunters' Cunning per Bestial Rage on the defeated Beast,Beasts in your Maps have a #% chance to break free\nBeasts which break free in your Maps gain Bestial Rage\nDefeating Beasts grants Hunters' Cunning per Bestial Rage on the defeated Beast,15–20
+Conqueror Idol,2x2,Suffix,Delirium,Delirious Unique Monsters in your Maps have a (1–2)% chance to drop an additional Delirium Orb,Delirious Unique Monsters in your Maps have a #% chance to drop an additional Delirium Orb,1–2
+Conqueror Idol,2x2,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (20–25)% chance to be duplicated,Ultimatum Rewards in your Maps have #% chance to be duplicated,20–25
+Minor Idol,1x1,Prefix,Delirium,Your Maps have (80–100)% increased chance to contain a Mirror of Delirium,Your Maps have #% increased chance to contain a Mirror of Delirium,80–100
+Minor Idol,1x1,Prefix,Delve,Your White Tier Maps grant (100–150) additional Voltaxic Sulphite on Completion,Your White Tier Maps grant # additional Voltaxic Sulphite on Completion,100–150
+Minor Idol,1x1,Prefix,Essence,Your Maps have +(7–10)% chance to contain an Imprisoned Monster,Your Maps have +#% chance to contain an Imprisoned Monster,7–10
+Minor Idol,1x1,Suffix,Beyond,Beyond Demons in your Maps have (35–45)% increased chance to be followers of K'tash,Beyond Demons in your Maps have #% increased chance to be followers of K'tash,35–45
+Minor Idol,1x1,Suffix,Beyond,Beyond Demons in your Maps have (35–45)% increased chance to be followers of Beidat,Beyond Demons in your Maps have #% increased chance to be followers of Beidat,35–45
+Minor Idol,1x1,Suffix,Breach,"Chayula, Who Dreamt in your Maps has a (20–30)% chance to be Duplicated","Chayula, Who Dreamt in your Maps has a #% chance to be Duplicated",20–30
+Minor Idol,1x1,Suffix,Breach,"Tul, Creeping Avalanche in your Maps has a (20–30)% chance to be Duplicated","Tul, Creeping Avalanche in your Maps has a #% chance to be Duplicated",20–30
+Minor Idol,1x1,Suffix,Exarch,Breaches in your Maps have (35–45)% increased chance to contain a Breach Boss' Clasped Hand,Breaches in your Maps have #% increased chance to contain a Breach Boss' Clasped Hand,35–45
+Minor Idol,1x1,Suffix,Essence,Imprisoned Monsters in your Maps have (8–12)% chance to have an additional Essence,Imprisoned Monsters in your Maps have #% chance to have an additional Essence,8–12
+Minor Idol,1x1,Suffix,Betrayal,Immortal Syndicate Members in your Maps are (40–60)% more likely to be accompanied by their Leader,Immortal Syndicate Members in your Maps are #% more likely to be accompanied by their Leader,40–60
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps have (40–60)% increased chance to require you to Stand in the Stone Circles,Ultimatum Encounters in your Maps have #% increased chance to require you to Stand in the Stone Circles,40–60
+Minor Idol,1x1,Suffix,Ritual,Rerolling Favours at Ritual Altars in your Maps costs (8–12)% reduced Tribute,Rerolling Favours at Ritual Altars in your Maps costs #% reduced Tribute,8–12
+Kamasan Idol,1x2,Prefix,Ultimatum,Your Maps have (144–180)% increased chance to contain an Ultimatum Encounter,Your Maps have #% increased chance to contain an Ultimatum Encounter,144–180
+Kamasan Idol,1x2,Suffix,Breach,Breach Bosses in your Maps have (12–16)% chance to drop double Breach Splinters,Breach Bosses in your Maps have #% chance to drop double Breach Splinters,12–16
+Kamasan Idol,1x2,Suffix,Exarch,Monsters Influenced by The Searing Exarch in your Maps have (0.5–0.7)% chance to drop an Item with a Searing Exarch Implicit Modifier,Monsters Influenced by The Searing Exarch in your Maps have #% chance to drop an Item with a Searing Exarch Implicit Modifier,0.5-0.7
+Kamasan Idol,1x2,Suffix,Ultimatum,Ultimatum Altars in your Maps have (30–40)% increased Life,Ultimatum Altars in your Maps have #% increased Life,30–40
+Kamasan Idol,1x2,Suffix,Ritual,Ritual Splinters offered at Ritual Altars in your Maps have (20–25)% increased Stack Size,Ritual Splinters offered at Ritual Altars in your Maps have #% increased Stack Size,20–25
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Harbinger Scarabs,Scarabs dropped in your Maps are #% more likely to be Harbinger Scarabs,60–80
+Noble Idol,2x1,Prefix,Essence,Your Maps have +(12–18)% chance to contain an Imprisoned Monster,Your Maps have +#% chance to contain an Imprisoned Monster,12–18
+Noble Idol,2x1,Prefix,Betrayal,Your Maps have +(30–45)% chance to contain Jun,Your Maps have +#% chance to contain Jun,30–45
+Noble Idol,2x1,Prefix,Ultimatum,Your Maps have +(30–45)% chance to contain an Ultimatum Encounter,Your Maps have +#% chance to contain an Ultimatum Encounter,30–45
+Noble Idol,2x1,Suffix,Breach,Breaches in your Maps have (60–80)% increased chance to belong to Chayula,Breaches in your Maps have #% increased chance to belong to Chayula,60–80
+Noble Idol,2x1,Suffix,Breach,Breach Monsters in your Maps have (3–7)% increased chance to drop a Breach Unique Item,Breach Monsters in your Maps have #% increased chance to drop a Breach Unique Item,3–7
+Noble Idol,2x1,Suffix,Torment,Tormented Spirits have a (1–2)% chance to be set free when Possessed Monsters are slain,Tormented Spirits have a #% chance to be set free when Possessed Monsters are slain,1–2
+Burial Idol,3x1,Suffix,Breach,Breaches in your Maps open and close (20–30)% slower,Breaches in your Maps open and close #% slower,20-30
+Burial Idol,3x1,Suffix,Expedition,Expedition Monsters in your Maps spawn with an additional (6–10)% of Life missing,Expedition Monsters in your Maps spawn with an additional #% of Life missing,6–10
+Burial Idol,3x1,Suffix,Ritual,Monsters Sacrificed at Ritual Altars in your Maps grant (20–25)% increased Tribute,Monsters Sacrificed at Ritual Altars in your Maps grant #% increased Tribute,20–25
+Totemic Idol,1x3,Prefix,Bestiary,Your Maps have +(40–60)% chance to contain Einhar,Your Maps have +#% chance to contain Einhar,40–60
+Totemic Idol,1x3,Prefix,Breach,Your Maps have (192–240)% increased chance to contain a Breach,Your Maps have #% increased chance to contain a Breach,192–240
+Totemic Idol,1x3,Suffix,Bestiary,Your Maps that contain capturable Beasts contain (3–4) additional Yellow Beasts,Your Maps that contain capturable Beasts contain # additional Yellow Beasts,3–4
+Totemic Idol,1x3,Suffix,Beyond,Beyond Demons in your Maps grant (20–30)% increased Experience,Beyond Demons in your Maps grant #% increased Experience,20–30
+Totemic Idol,1x3,Suffix,Beyond,(20–25)% more Basic Currency Items found from Beyond Demons in your Maps that are followers of Beidat,#% more Basic Currency Items found from Beyond Demons in your Maps that are followers of Beidat,20–25
+Totemic Idol,1x3,Suffix,Delve,You Gain (30–40)% increased Damage per stack of Sulphite Intoxication.,You Gain #% increased Damage per stack of Sulphite Intoxication.,30–40
+Totemic Idol,1x3,Suffix,Expedition,Expeditions in your Maps have (80–100)% increased chance to be led by Rog,Expeditions in your Maps have #% increased chance to be led by Rog,80–100
+Totemic Idol,1x3,Suffix,Harvest,Harvests in your Maps have (8–12)% chance for the unchosen Crop to not wilt,Harvests in your Maps have #% chance for the unchosen Crop to not wilt,8–12
+Totemic Idol,1x3,Suffix,Heist,Legion Encounters in your Maps have (60–80)% increased chance to include a Maraketh army,Legion Encounters in your Maps have #% increased chance to include a Maraketh army,60–80
+Totemic Idol,1x3,Suffix,Ultimatum,Inscribed Ultimatums found in your Maps have (40–60)% increased chance to reward Currency Items,Inscribed Ultimatums found in your Maps have #% increased chance to reward Currency Items,40–60
+Totemic Idol,1x3,Suffix,Eater,Monsters Influenced by The Eater of Worlds in your Maps have (0.8–1.2)% chance to drop an item with an Eater of Worlds Implicit Modifier,Monsters Influenced by The Eater of Worlds in your Maps have #% chance to drop an item with an Eater of Worlds Implicit Modifier,0.8-1.2
+Conqueror Idol,2x2,Prefix,Breach,Your Maps have (224–280)% increased chance to contain a Breach,Your Maps have #% increased chance to contain a Breach,224–280
+Conqueror Idol,2x2,Prefix,Delirium,Maps found in your Maps have (3–5)% chance to have layers of Delirium,Maps found in your Maps have #% chance to have layers of Delirium,3–5
+Conqueror Idol,2x2,Prefix,Ritual,Your Maps have (224–280)% increased chance to contain Ritual Altars,Your Maps have #% increased chance to contain Ritual Altars,224–280
+Conqueror Idol,2x2,Suffix,Abyss,Abyss Jewels dropped by Abyssal Troves or Stygian Spires in your Maps have a 1% Chance to be Rare and Corrupted,Abyss Jewels dropped by Abyssal Troves or Stygian Spires in your Maps have a 1% Chance to be Rare and Corrupted,1
+Conqueror Idol,2x2,Suffix,Blight,Blight Towers in your Maps can be Salvaged after the Blight Encounter\nHigher Tier Towers grant better Salvaged Rewards\nSalvaged Rewards are improved for each different Tower Type built during Encounter,Blight Towers in your Maps can be Salvaged after the Blight Encounter\nHigher Tier Towers grant better Salvaged Rewards\nSalvaged Rewards are improved for each different Tower Type built during Encounter,100
+Conqueror Idol,2x2,Suffix,Breach,Breach Bosses Defeated in your Maps have (3–5)% chance to drop a Breachstone,Breach Bosses Defeated in your Maps have #% chance to drop a Breachstone,3–5
+Conqueror Idol,2x2,Suffix,Harvest,Harvested Plants in your Maps have (10–15)% chance to spawn an additional Monster,Harvested Plants in your Maps have #% chance to spawn an additional Monster,10–15
+Conqueror Idol,2x2,Suffix,Heist,Blueprints that drop in your Maps have (10–15)% chance to be fully Revealed,Blueprints that drop in your Maps have #% chance to be fully Revealed,10–15
+Minor Idol,1x1,Prefix,Breach,Your Maps have (80–100)% increased chance to contain a Breach,Your Maps have #% increased chance to contain a Breach,80–100
+Minor Idol,1x1,Prefix,Delirium,Your Maps have +(15–25)% chance to contain a Mirror of Delirium,Your Maps have +#% chance to contain a Mirror of Delirium,15–25
+Minor Idol,1x1,Prefix,Ultimatum,Your Maps have (80–100)% increased chance to contain an Ultimatum Encounter,Your Maps have #% increased chance to contain an Ultimatum Encounter,80–100
+Minor Idol,1x1,Prefix,Ultimatum,Your Maps have +(15–25)% chance to contain an Ultimatum Encounter,Your Maps have +#% chance to contain an Ultimatum Encounter,15–25
+Minor Idol,1x1,Prefix,Scouting Reports,(10–15)% increased Atlas Scouting Reports found in your Maps,#% increased Atlas Scouting Reports found in your Maps,10–15
+Minor Idol,1x1,Suffix,Expedition,(15–20)% increased Explosive Radius in your Maps,#% increased Explosive Radius in your Maps,15–20
+Minor Idol,1x1,Suffix,Harvest,Harvest Crops in your Maps have (10–15)% reduced chance to grow Blue Plants,Harvest Crops in your Maps have #% reduced chance to grow Blue Plants,10–15
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps have (40–60)% increased chance to only require you to Survive,Ultimatum Encounters in your Maps have #% increased chance to only require you to Survive,40–60
+Minor Idol,1x1,Suffix,Strongboxes,Strongboxes in your Maps have (50–70)% increased chance to be an Arcanist's Strongbox,Strongboxes in your Maps have #% increased chance to be an Arcanist's Strongbox,50–70
+Minor Idol,1x1,Suffix,Torment,Tormented Spirits in your Maps have (40–60)% increased Duration,Tormented Spirits in your Maps have #% increased Duration,40–60
+Kamasan Idol,1x2,Prefix,Delve,Your Maps have +(30–45)% chance to contain Niko,Your Maps have +#% chance to contain Niko,30–45
+Kamasan Idol,1x2,Prefix,Expedition,Your Maps have (144–180)% increased chance to contain an Expedition Encounter,Your Maps have #% increased chance to contain an Expedition Encounter,144–180
+Kamasan Idol,1x2,Prefix,Ultimatum,Your Maps have +(30–45)% chance to contain an Ultimatum Encounter,Your Maps have +#% chance to contain an Ultimatum Encounter,30–45
+Kamasan Idol,1x2,Suffix,Beyond,(10–15)% increased Quantity of Tainted Currency dropped by Beyond Demons in your Maps,#% increased Quantity of Tainted Currency dropped by Beyond Demons in your Maps,10–15
+Kamasan Idol,1x2,Suffix,Breach,Breach Monsters in your Maps have (3–7)% increased chance to drop a Breach Unique Item,Breach Monsters in your Maps have #% increased chance to drop a Breach Unique Item,3–7
+Kamasan Idol,1x2,Suffix,Delirium,Cluster Jewels from Delirium Rewards have a (6–8)% chance to be Rare and Corrupted,Cluster Jewels from Delirium Rewards have a #% chance to be Rare and Corrupted,6–8
+Kamasan Idol,1x2,Suffix,Heist,Your Maps that contain Smuggler's Caches have a (25–35)% chance to contain an additional Smuggler's Cache,Your Maps that contain Smuggler's Caches have a #% chance to contain an additional Smuggler's Cache,25–35
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs found in your Maps are (60–80)% more likely to be Ambush Scarabs,Scarabs found in your Maps are #% more likely to be Ambush Scarabs,60–80
+Noble Idol,2x1,Prefix,Breach,Your Maps which contain Breaches have (5–10)% chance to contain two additional Breaches,Your Maps which contain Breaches have #% chance to contain two additional Breaches,5–10
+Noble Idol,2x1,Prefix,Delirium,Your Maps have (144–180)% increased chance to contain a Mirror of Delirium,Your Maps have #% increased chance to contain a Mirror of Delirium,144–180
+Noble Idol,2x1,Prefix,Delve,Your Maps have +(30–45)% chance to contain Niko,Your Maps have +#% chance to contain Niko,30–45
+Noble Idol,2x1,Prefix,Maps,Final Map Boss in each Map has +(1.8–2.4)% chance to drop an Elder Guardian Map (Tier 14+),Final Map Boss in each Map has +#% chance to drop an Elder Guardian Map (Tier 14+),1.8-2.4
+Noble Idol,2x1,Suffix,Abyss,Abyss Pits in your Maps have (8–12)% chance to spawn 100% increased Monsters,Abyss Pits in your Maps have #% chance to spawn 100% increased Monsters,8–12
+Noble Idol,2x1,Suffix,Abyss,Abyss Cracks in your Maps have (3–5)% chance to spawn all Monsters as Magic for each prior Pit in that Abyss,Abyss Cracks in your Maps have #% chance to spawn all Monsters as Magic for each prior Pit in that Abyss,3–5
+Noble Idol,2x1,Suffix,Breach,Breaches in your Maps have (70–100)% increased chance to belong to Uul-Netol,Breaches in your Maps have #% increased chance to belong to Uul-Netol,70–100
+Noble Idol,2x1,Suffix,Expedition,(15–20)% increased Quantity of Vendor Refresh Currencies dropped by Monsters in your Maps,#% increased Quantity of Vendor Refresh Currencies dropped by Monsters in your Maps,15–20
+Noble Idol,2x1,Suffix,Heist,Heist Contracts found in your Maps are (75–125)% more likely to require level 3 Jobs,Heist Contracts found in your Maps are #% more likely to require level 3 Jobs,75–125
+Noble Idol,2x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps only requiring you to Survive have (3–5)% reduced duration,Ultimatum Encounters in your Maps only requiring you to Survive have #% reduced duration,3–5
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Cartography Scarabs,Scarabs dropped in your Maps are #% more likely to be Cartography Scarabs,60–80
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Essence Scarabs,Scarabs dropped in your Maps are #% more likely to be Essence Scarabs,60–80
+Burial Idol,3x1,Prefix,Delve,Your Maps have +(40–60)% chance to contain Niko,Your Maps have +#% chance to contain Niko,40–60
+Burial Idol,3x1,Prefix,Harvest,Your Maps have +(40–60)% chance to contain The Sacred Grove,Your Maps have +#% chance to contain The Sacred Grove,40–60
+Burial Idol,3x1,Prefix,Maps,(8–12)% increased effect of Explicit Modifiers on your Maps,#% increased effect of Explicit Modifiers on your Maps,8–12
+Burial Idol,3x1,Prefix,Maps,(12–16)% increased Rarity of Items found in your Maps,#% increased Rarity of Items found in your Maps,12–16
+Burial Idol,3x1,Suffix,Beyond,(20–25)% more Basic Currency Items found from Beyond Demons in your Maps that are followers of Beidat,#% more Basic Currency Items found from Beyond Demons in your Maps that are followers of Beidat,20–25
+Burial Idol,3x1,Suffix,Delve,Voltaxic Sulphite Veins and Chests in your Maps have (4–6)% chance to contain double Sulphite,Voltaxic Sulphite Veins and Chests in your Maps have #% chance to contain double Sulphite,4–6
+Burial Idol,3x1,Suffix,Essence,Remnants in your Maps have (25–35)% chance to have an additional Suffix Modifier,Remnants in your Maps have #% chance to have an additional Suffix Modifier,25–35
+Burial Idol,3x1,Suffix,Eater,(15–20)% increased chance to find Eater of Worlds Altars in your Maps,#% increased chance to find Eater of Worlds Altars in your Maps,15–20
+Burial Idol,3x1,Suffix,Vaal,Vaal Side Areas in your Maps have (15–20)% chance for Rewards from Vaal Vessels to be Duplicated,Vaal Side Areas in your Maps have #% chance for Rewards from Vaal Vessels to be Duplicated,15–20
+Totemic Idol,1x3,Prefix,Incursion,Your Maps have (192–240)% increased chance to contain Alva,Your Maps have #% increased chance to contain Alva,192–240
+Totemic Idol,1x3,Prefix,Rogue Exiles,Your Maps have a (40–60)% chance to contain an additional Rogue Exile,Your Maps have a #% chance to contain an additional Rogue Exile,40–60
+Totemic Idol,1x3,Prefix,Ritual,Your Maps have +(40–60)% chance to contain Ritual Altars,Your Maps have +#% chance to contain Ritual Altars,40–60
+Totemic Idol,1x3,Prefix,Strongboxes,Your Maps have +(15–25)% chance to contain a Strongbox,Your Maps have +#% chance to contain a Strongbox,15–25
+Totemic Idol,1x3,Suffix,Exarch,(40–60)% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in your Maps,#% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in your Maps,40–60
+Totemic Idol,1x3,Suffix,Heist,Splinters dropped by Legion Monsters in your Maps have (20–25)% chance to be Duplicated,Splinters dropped by Legion Monsters in your Maps have #% chance to be Duplicated,20–25
+Totemic Idol,1x3,Suffix,Maps,(10–20)% increased Rarity of Items found in your Maps affected by Fortune Favours the Brave,#% increased Rarity of Items found in your Maps affected by Fortune Favours the Brave,10–20
+Conqueror Idol,2x2,Prefix,Delve,Your Maps have (224–280)% increased chance to contain Niko,Your Maps have #% increased chance to contain Niko,224–280
+Conqueror Idol,2x2,Prefix,Heist,Your Maps have (224–280)% increased chance to contain a Smuggler's Cache,Your Maps have #% increased chance to contain a Smuggler's Cache,224–280
+Conqueror Idol,2x2,Suffix,Bestiary,Beasts in your Maps are more likely to be less common varieties,Beasts in your Maps are more likely to be less common varieties,100
+Conqueror Idol,2x2,Suffix,Bestiary,Einhar remains in your Maps after his Mission is Complete,Einhar remains in your Maps after his Mission is Complete,100
+Conqueror Idol,2x2,Suffix,Blight,Blight chests in your Maps have a (5–10)% chance to be openable again,Blight chests in your Maps have a #% chance to be openable again,5–10
+Conqueror Idol,2x2,Suffix,Shrine,Shrines in your Maps are guarded by at least one Magic Pack,Shrines in your Maps are guarded by at least one Magic Pack,100
+Conqueror Idol,2x2,Suffix,Expedition,(80–120)% increased Explosive Placement Range in your Maps,#% increased Explosive Placement Range in your Maps,80–120
+Minor Idol,1x1,Prefix,Maps,Map Bosses have (40–60)% increased chance to drop a Conqueror Map,Map Bosses have #% increased chance to drop a Conqueror Map,40–60
+Minor Idol,1x1,Suffix,Blight,Blight Chests in your Maps have (15–25)% more chance to contain Blighted Maps,Blight Chests in your Maps have #% more chance to contain Blighted Maps,15–25
+Minor Idol,1x1,Suffix,Breach,Breaches in your Maps have (35–45)% increased chance to contain a Breach Boss' Clasped Hand,Breaches in your Maps have #% increased chance to contain a Breach Boss' Clasped Hand,35–45
+Minor Idol,1x1,Suffix,Vaal,Vaal Side Areas in your Maps have (6–10)% chance to be an Alluring Vaal Side Area,Vaal Side Areas in your Maps have #% chance to be an Alluring Vaal Side Area,6–10
+Minor Idol,1x1,Suffix,Scouting Reports,(4–6)% chance for Scouting Reports to drop as Vaal Scouting Reports instead in your Maps,#% chance for Scouting Reports to drop as Vaal Scouting Reports instead in your Maps,4–6
+Kamasan Idol,1x2,Prefix,Abyss,Your Maps have (144–180)% increased chance to contain an Abyss,Your Maps have #% increased chance to contain an Abyss,144–180
+Kamasan Idol,1x2,Prefix,Delirium,Your Maps have (144–180)% increased chance to contain a Mirror of Delirium,Your Maps have #% increased chance to contain a Mirror of Delirium,144–180
+Kamasan Idol,1x2,Prefix,Shrine,Your Maps have a (60–80)% chance to contain an additional Shrine,Your Maps have a #% chance to contain an additional Shrine,60–80
+Kamasan Idol,1x2,Prefix,Essence,Your Maps have +(12–18)% chance to contain an Imprisoned Monster,Your Maps have +#% chance to contain an Imprisoned Monster,12–18
+Kamasan Idol,1x2,Prefix,Ritual,Your Maps have (144–180)% increased chance to contain Ritual Altars,Your Maps have #% increased chance to contain Ritual Altars,144–180
+Kamasan Idol,1x2,Suffix,Blight,Blighted Chests in your Maps have (25–35)% increased chance to contain an Oil,Blighted Chests in your Maps have #% increased chance to contain an Oil,25–35
+Kamasan Idol,1x2,Suffix,Breach,(20–25)% increased Quantity of Breach Splinters found in Breach Hands in your Maps,#% increased Quantity of Breach Splinters found in Breach Hands in your Maps,20–25
+Kamasan Idol,1x2,Suffix,Ritual,Ritual Altars in your Maps can have (15–25)% increased number of Spawned Monsters at once,Ritual Altars in your Maps can have #% increased number of Spawned Monsters at once,15–25
+Kamasan Idol,1x2,Suffix,Strongboxes,Strongboxes in your Maps have (40–60)% chance to be guarded by an additional Pack of Monsters,Strongboxes in your Maps have #% chance to be guarded by an additional Pack of Monsters,40–60
+Noble Idol,2x1,Prefix,Breach,Your Maps have (144–180)% increased chance to contain a Breach,Your Maps have #% increased chance to contain a Breach,144–180
+Noble Idol,2x1,Prefix,Maps,(5–8)% chance for one Monster in each of your Maps to drop an additional connected Map,#% chance for one Monster in each of your Maps to drop an additional connected Map,5–8
+Noble Idol,2x1,Suffix,Incursion,Incursions in your Maps have (15–25)% chance for all Monsters to be at least Magic,Incursions in your Maps have #% chance for all Monsters to be at least Magic,15–25
+Noble Idol,2x1,Suffix,Breach,Breaches in your Maps have (80–120)% increased chance to belong to Tul,Breaches in your Maps have #% increased chance to belong to Tul,80–120
+Noble Idol,2x1,Suffix,Harvest,Harvest Crops in your Maps have (35–45)% increased chance to contain a Tier 4 Plant,Harvest Crops in your Maps have #% increased chance to contain a Tier 4 Plant,35–45
+Noble Idol,2x1,Suffix,Heist,Heist Contracts found in your Maps are (75–125)% more likely to require level 5 Jobs,Heist Contracts found in your Maps are #% more likely to require level 5 Jobs,75–125
+Noble Idol,2x1,Suffix,Strongboxes,(15–20)% increased Quantity of Items contained in Strongboxes in your Maps,#% increased Quantity of Items contained in Strongboxes in your Maps,15–20
+Burial Idol,3x1,Prefix,Blight,Your Maps have +(40–60)% chance to contain a Blight Encounter,Your Maps have +#% chance to contain a Blight Encounter,40–60
+Burial Idol,3x1,Prefix,Expedition,Your Maps have +(40–60)% chance to contain an Expedition Encounter,Your Maps have +#% chance to contain an Expedition Encounter,40–60
+Burial Idol,3x1,Prefix,Heist,Your Maps have +(40–60)% chance to contain a Smuggler's Cache,Your Maps have +#% chance to contain a Smuggler's Cache,40–60
+Burial Idol,3x1,Prefix,Legion,Your Maps have +(40–60)% chance to contain a Legion Encounter,Your Maps have +#% chance to contain a Legion Encounter,40–60
+Burial Idol,3x1,Prefix,Ultimatmum,Your Maps have +(40–60)% chance to contain an Ultimatum Encounter,Your Maps have +#% chance to contain an Ultimatum Encounter,40–60
+Burial Idol,3x1,Suffix,Beyond,Beyond Portals in your Maps have (25–35)% increased chance to spawn a Unique Boss,Beyond Portals in your Maps have #% increased chance to spawn a Unique Boss,25–35
+Burial Idol,3x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps spawn (15–20)% increased number of Monsters,Ultimatum Encounters in your Maps spawn #% increased number of Monsters,15–20
+Burial Idol,3x1,Suffix,Strongboxes,Gems contained in Strongboxes in your Maps are Duplicated,Gems contained in Strongboxes in your Maps are Duplicated,100
+Totemic Idol,1x3,Prefix,Legion,Your Maps have +(40–60)% chance to contain a Legion Encounter,Your Maps have +#% chance to contain a Legion Encounter,40–60
+Totemic Idol,1x3,Suffix,Abyss,Abyss Cracks in your Maps have (10–20)% chance to spawn all Monsters as at least Magic,Abyss Cracks in your Maps have #% chance to spawn all Monsters as at least Magic,10–20
+Totemic Idol,1x3,Suffix,Blight,Blight Monsters in your Maps take (30–40)% increased Damage,Blight Monsters in your Maps take #% increased Damage,30–40
+Totemic Idol,1x3,Suffix,Expedition,Expeditions in your Maps have (80–100)% increased chance to be led by Gwennen,Expeditions in your Maps have #% increased chance to be led by Gwennen,80–100
+Totemic Idol,1x3,Suffix,Maps,(5–10)% increased Quantity of Items found in your Maps affected by Fortune Favours the Brave,#% increased Quantity of Items found in your Maps affected by Fortune Favours the Brave,5–10
+Totemic Idol,1x3,Suffix,Vaal,Vaal Side Areas in your Maps have (15–20)% chance for Rewards from Vaal Vessels to be Duplicated,Vaal Side Areas in your Maps have #% chance for Rewards from Vaal Vessels to be Duplicated,15–20
+Conqueror Idol,2x2,Prefix,Abyss,Your Maps have (224–280)% increased chance to contain an Abyss,Your Maps have #% increased chance to contain an Abyss,224–280
+Conqueror Idol,2x2,Prefix,Incursion,Your Maps have (224–280)% increased chance to contain Alva,Your Maps have #% increased chance to contain Alva,224–280
+Conqueror Idol,2x2,Prefix,Betrayal,Your Maps have +(45–70)% chance to contain Jun,Your Maps have +#% chance to contain Jun,45–70
+Conqueror Idol,2x2,Prefix,Legion,Your Maps have +(45–70)% chance to contain a Legion Encounter,Your Maps have +#% chance to contain a Legion Encounter,45–70
+Conqueror Idol,2x2,Prefix,Ultimatum,Your Maps have (224–280)% increased chance to contain an Ultimatum Encounter,Your Maps have #% increased chance to contain an Ultimatum Encounter,224–280
+Conqueror Idol,2x2,Suffix,Incursion,Killing resident Architects in your Maps adds their Upgrade Tier to the surviving Architect's Room,Killing resident Architects in your Maps adds their Upgrade Tier to the surviving Architect's Room,100
+Conqueror Idol,2x2,Suffix,Delve,Voltaxic Sulphite Veins and Chests found in your Maps contains Doomed Spirits,Voltaxic Sulphite Veins and Chests found in your Maps contains Doomed Spirits,100
+Conqueror Idol,2x2,Suffix,Essence,Using Remnants of Corruption on Imprisoned Monsters in your Maps replaces all Essences with one of the Essences on the Imprisoned Monster,Using Remnants of Corruption on Imprisoned Monsters in your Maps replaces all Essences with one of the Essences on the Imprisoned Monster,100
+Conqueror Idol,2x2,Suffix,Legion,Legion Encounters with a General in your Maps have both Generals,Legion Encounters with a General in your Maps have both Generals,100
+Conqueror Idol,2x2,Suffix,Strongboxes,Strongboxes opened in your Maps have (5–9)% chance to be openable again,Strongboxes opened in your Maps have #% chance to be openable again,5–9
+Minor Idol,1x1,Prefix,Bestiary,Your Maps have (80–100)% increased chance to contain Einhar,Your Maps have #% increased chance to contain Einhar,80–100
+Minor Idol,1x1,Prefix,Breach,Your Maps have +(15–25)% chance to contain Breaches,Your Maps have +#% chance to contain Breaches,15–25
+Minor Idol,1x1,Prefix,Betrayal,Your Maps have +(15–25)% chance to contain Jun,Your Maps have +#% chance to contain Jun,15–25
+Minor Idol,1x1,Prefix,Legion,Your Maps have (80–100)% increased chance to contain a Legion Encounter,Your Maps have #% increased chance to contain a Legion Encounter,80–100
+Minor Idol,1x1,Prefix,Pack Size,Your Maps contain (3–5)% more Monster Packs consisting of difficult and rewarding Monsters,Your Maps contain #% more Monster Packs consisting of difficult and rewarding Monsters,3–5
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (20–30)% increased chance to be Currency Items,Ultimatum Rewards in your Maps have #% increased chance to be Currency Items,20–30
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (20–30)% increased chance to be Divination Cards,Ultimatum Rewards in your Maps have #% increased chance to be Divination Cards,20–30
+Minor Idol,1x1,Suffix,Strongboxes,Strongboxes in your Maps have (40–60)% increased chance to be a Gemcutter's Strongbox,Strongboxes in your Maps have #% increased chance to be a Gemcutter's Strongbox,40–60
+Kamasan Idol,1x2,Prefix,Shrine,Your Maps have +(12–18)% chance to contain a Shrine,Your Maps have +#% chance to contain a Shrine,12–18
+Kamasan Idol,1x2,Prefix,Torment,Map Bosses have (6–8)% chance to be surrounded by Tormented Spirits,Map Bosses have #% chance to be surrounded by Tormented Spirits,6–8
+Kamasan Idol,1x2,Suffix,Abyss,Abyss Monsters in your Maps grant (30–40)% increased Experience,Abyss Monsters in your Maps grant #% increased Experience,30–40
+Kamasan Idol,1x2,Suffix,Abyss,Abyss Cracks in your Maps have (3–5)% chance to spawn all Monsters as Magic for each prior Pit in that Abyss,Abyss Cracks in your Maps have #% chance to spawn all Monsters as Magic for each prior Pit in that Abyss,3–5
+Kamasan Idol,1x2,Suffix,Beyond,Beyond Portals in your Maps have (20–25)% increased Merging Radius,Beyond Portals in your Maps have #% increased Merging Radius,20–25
+Kamasan Idol,1x2,Suffix,Strongboxes,(15–20)% increased Quantity of Items contained in Strongboxes in your Maps,#% increased Quantity of Items contained in Strongboxes in your Maps,15–20
+Noble Idol,2x1,Prefix,Rogue Exiles,Your Maps have a (30–45)% chance to contain an additional Rogue Exile,Your Maps have a #% chance to contain an additional Rogue Exile,30–45
+Noble Idol,2x1,Prefix,Delirium,Your Maps have +(30–45)% chance to contain a Mirror of Delirium,Your Maps have +#% chance to contain a Mirror of Delirium,30–45
+Noble Idol,2x1,Prefix,Maps,Final Map Boss in each Map has +(1.8–2.4)% chance to drop a Shaper Guardian Map (Tier 14+),Final Map Boss in each Map has +#% chance to drop a Shaper Guardian Map (Tier 14+),1.8-2.4
+Noble Idol,2x1,Prefix,Harvest,Your Maps have (144–180)% increased chance to contain The Sacred Grove,Your Maps have #% increased chance to contain The Sacred Grove,144–180
+Noble Idol,2x1,Prefix,Torment,Your Maps have a (60–80)% chance to be haunted by an additional Tormented Spirit,Your Maps have a #% chance to be haunted by an additional Tormented Spirit,60–80
+Noble Idol,2x1,Prefix,Torment,Your Maps have +(12–18)% chance to be haunted by a Tormented Spirit,Your Maps have +#% chance to be haunted by a Tormented Spirit,12–18
+Noble Idol,2x1,Suffix,Bestiary,Einhar has (60–80)% increased Cooldown Recovery Rate in your Maps,Einhar has #% increased Cooldown Recovery Rate in your Maps,60–80
+Noble Idol,2x1,Suffix,Breach,Breaches in your Maps have (80–120)% increased chance to belong to Esh,Breaches in your Maps have #% increased chance to belong to Esh,80–120
+Noble Idol,2x1,Suffix,Betrayal,(16–24)% increased Rarity of items from Defeated Syndicate Members in your Maps per Equipment Item they have,#% increased Rarity of items from Defeated Syndicate Members in your Maps per Equipment Item they have,16–24
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Titanic Scarabs,Scarabs dropped in your Maps are #% more likely to be Titanic Scarabs,60–80
+Burial Idol,3x1,Prefix,Essence,Your Maps have +(15–25)% chance to contain an Imprisoned Monster,Your Maps have +#% chance to contain an Imprisoned Monster,15–25
+Burial Idol,3x1,Prefix,Harbinger,Your Maps have a (15–25)% chance to contain an additional Harbinger,Your Maps have a #% chance to contain an additional Harbinger,15–25
+Burial Idol,3x1,Prefix,Strongboxes,Your Maps have +(15–25)% chance to contain a Strongbox,Your Maps have +#% chance to contain a Strongbox,15–25
+Burial Idol,3x1,Suffix,Bestiary,Your Maps that contain capturable Beasts contain (3–4) additional Yellow Beasts,Your Maps that contain capturable Beasts contain # additional Yellow Beasts,3–4
+Burial Idol,3x1,Suffix,Breach,Breaches in your Maps have (35–45)% increased chance to contain a Boss,Breaches in your Maps have #% increased chance to contain a Boss,35–45
+Burial Idol,3x1,Suffix,Expedition,Expeditions in your Maps have (80–100)% increased chance to be led by Tujen,Expeditions in your Maps have #% increased chance to be led by Tujen,80–100
+Burial Idol,3x1,Suffix,Heist,Immortal Syndicate Members in your Maps have (20–25)% increased chance to be accompanied by reinforcements,Immortal Syndicate Members in your Maps have #% increased chance to be accompanied by reinforcements,20–25
+Burial Idol,3x1,Suffix,Heist,Legion Encounters in your Maps have (100–150)% increased chance to include an Eternal Empire army,Legion Encounters in your Maps have #% increased chance to include an Eternal Empire army,100–150
+Burial Idol,3x1,Suffix,Maps,(5–10)% increased Quantity of Items found in your Maps affected by Fortune Favours the Brave,#% increased Quantity of Items found in your Maps affected by Fortune Favours the Brave,5–10
+Totemic Idol,1x3,Prefix,Harbinger,Your Maps contain an additional Harbinger,Your Maps contain an additional Harbinger,100
+Totemic Idol,1x3,Prefix,Ritual,Your Maps have (192–240)% increased chance to contain Ritual Altars,Your Maps have #% increased chance to contain Ritual Altars,192–240
+Totemic Idol,1x3,Prefix,Maps,(12–16)% increased Rarity of Items found in your Maps,#% increased Rarity of Items found in your Maps,12–16
+Totemic Idol,1x3,Suffix,Expedition,Expeditions in your Maps have (80–100)% increased chance to be led by Tujen,Expeditions in your Maps have #% increased chance to be led by Tujen,80–100
+Totemic Idol,1x3,Suffix,Harvest,Harvest Monsters in your Maps drop (12–18)% increased Quantity of Lifeforce,Harvest Monsters in your Maps drop #% increased Quantity of Lifeforce,12–18
+Totemic Idol,1x3,Suffix,Heist,Heist Contracts found in your Maps are (70–90)% more likely to target High Value Targets,Heist Contracts found in your Maps are #% more likely to target High Value Targets,70–90
+Totemic Idol,1x3,Suffix,Ultimatum,Inscribed Ultimatums found in your Maps have (40–60)% increased chance to reward Unique Items,Inscribed Ultimatums found in your Maps have #% increased chance to reward Unique Items,40–60
+Conqueror Idol,2x2,Prefix,Rogue Exiles,Your Maps have a (8–12)% chance to contain (6–10) additional Rogue Exiles,Your Maps have a #% chance to contain # additional Rogue Exiles,8–12
+Conqueror Idol,2x2,Prefix,Breach,Your Maps have +(45–70)% chance to contain Breaches,Your Maps have +#% chance to contain Breaches,45–70
+Conqueror Idol,2x2,Prefix,Essence,Your Maps contain an additional Imprisoned Monster,Your Maps contain an additional Imprisoned Monster,100
+Conqueror Idol,2x2,Prefix,Betrayal,Your Maps have (224–280)% increased chance to contain Jun,Your Maps have #% increased chance to contain Jun,224–280
+Conqueror Idol,2x2,Prefix,Strongboxes,Your Maps contain an additional Strongbox,Your Maps contain an additional Strongbox,100
+Conqueror Idol,2x2,Prefix,Pack Size,(4–6)% increased Pack size,#% increased Pack size,4–6
+Conqueror Idol,2x2,Suffix,Abyss,Abyssal Troves and Stygian Spires in your Maps have (0.03–0.05)% chance to drop an Abyss Scarab,Abyssal Troves and Stygian Spires in your Maps have #% chance to drop an Abyss Scarab,0.03-0.05
+Conqueror Idol,2x2,Suffix,Abyss,Abysses in your Maps that do not lead to an Abyssal Depths lead to at least 3 Pits if able,Abysses in your Maps that do not lead to an Abyssal Depths lead to at least 3 Pits if able,100
+Conqueror Idol,2x2,Suffix,Beyond,Gain Demonic Power on defeating a Beyond Boss in your Maps,Gain Demonic Power on defeating a Beyond Boss in your Maps,100
+Conqueror Idol,2x2,Suffix,Exarch,Eldritch Embers found in your Maps influenced by The Searing Exarch have (10–15)% chance to be Duplicated,Eldritch Embers found in your Maps influenced by The Searing Exarch have #% chance to be Duplicated,10–15
+Conqueror Idol,2x2,Suffix,Essence,Essences found in your Maps have (25–35)% chance to be a tier higher,Essences found in your Maps have #% chance to be a tier higher,25–35
+Conqueror Idol,2x2,Suffix,Expedition,Your Maps contain (20–25)% increased number of Runic Monster Markers,Your Maps contain #% increased number of Runic Monster Markers,20–25
+Minor Idol,1x1,Prefix,Incursion,Your Maps have +(15–25)% chance to contain Alva,Your Maps have +#% chance to contain Alva,15–25
+Minor Idol,1x1,Prefix,Harvest,Your Maps have +(15–25)% chance to contain The Sacred Grove,Your Maps have +#% chance to contain The Sacred Grove,15–25
+Minor Idol,1x1,Prefix,Harvest,Your Maps have (80–100)% increased chance to contain The Sacred Grove,Your Maps have #% increased chance to contain The Sacred Grove,80–100
+Minor Idol,1x1,Suffix,Breach,Breaches in your Maps spawn (15–20)% increased Magic Monsters,Breaches in your Maps spawn #% increased Magic Monsters,15–20
+Minor Idol,1x1,Suffix,Delve,Sulphite Veins and Chests in your Maps have (3–5)% chance to also contain an equal amount of Azurite,Sulphite Veins and Chests in your Maps have #% chance to also contain an equal amount of Azurite,3–5
+Kamasan Idol,1x2,Prefix,Breach,Your Maps have (144–180)% increased chance to contain a Breach,Your Maps have #% increased chance to contain a Breach,144–180
+Kamasan Idol,1x2,Prefix,Breach,Your Maps which contain Breaches have (5–10)% chance to contain two additional Breaches,Your Maps which contain Breaches have #% chance to contain two additional Breaches,5–10
+Kamasan Idol,1x2,Prefix,Harbinger,Your Maps have a (60–80)% chance to contain an additional Harbinger,Your Maps have a #% chance to contain an additional Harbinger,60–80
+Kamasan Idol,1x2,Prefix,Maps,(5–8)% chance for one Monster in each of your Maps to drop an additional connected Map,#% chance for one Monster in each of your Maps to drop an additional connected Map,5–8
+Kamasan Idol,1x2,Suffix,Blight,Blight Bosses in your Maps have (14–18)% chance to add an additional Reward Chest when Defeated,Blight Bosses in your Maps have #% chance to add an additional Reward Chest when Defeated,14–18
+Kamasan Idol,1x2,Suffix,Shrine,(25–35)% increased Effect of Shrine Buffs on Players in your Maps,#% increased Effect of Shrine Buffs on Players in your Maps,25–35
+Kamasan Idol,1x2,Suffix,Expedition,(15–20)% increased Quantity of Vendor Refresh Currencies dropped by Monsters in your Maps,#% increased Quantity of Vendor Refresh Currencies dropped by Monsters in your Maps,15–20
+Kamasan Idol,1x2,Suffix,Harvest,Harvest Crops in your Maps have (25–35)% increased chance to contain Tier 3 Plants,Harvest Crops in your Maps have #% increased chance to contain Tier 3 Plants,25–35
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Torment Scarabs,Scarabs dropped in your Maps are #% more likely to be Torment Scarabs,60–80
+Noble Idol,2x1,Prefix,Blight,Your Maps have +(30–45)% chance to contain a Blight Encounter,Your Maps have +#% chance to contain a Blight Encounter,30–45
+Noble Idol,2x1,Prefix,Shrine,Your Maps have a (60–80)% chance to contain an additional Shrine,Your Maps have a #% chance to contain an additional Shrine,60–80
+Noble Idol,2x1,Prefix,Strongboxes,Your Maps have +(60–80)% chance to contain a Strongbox,Your Maps have +#% chance to contain a Strongbox,60–80
+Noble Idol,2x1,Suffix,Delve,Voltaxic Sulphite Veins and Chests in your Maps contain (8–10)% increased Sulphite,Voltaxic Sulphite Veins and Chests in your Maps contain #% increased Sulphite,8–10
+Noble Idol,2x1,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (25–35)% increased chance to be Inscribed Ultimatums,Ultimatum Rewards in your Maps have #% increased chance to be Inscribed Ultimatums,25–35
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Torment Scarabs,Scarabs dropped in your Maps are #% more likely to be Torment Scarabs,60–80
+Noble Idol,2x1,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Domination Scarabs,Scarabs dropped in your Maps are #% more likely to be Domination Scarabs,60–80
+Burial Idol,3x1,Prefix,Bestiary,Your Maps have (192–240)% increased chance to contain Einhar,Your Maps have #% increased chance to contain Einhar,192–240
+Burial Idol,3x1,Prefix,Torment,Your Maps have +(15–25)% chance to be haunted by a Tormented Spirit,Your Maps have +#% chance to be haunted by a Tormented Spirit,15–25
+Burial Idol,3x1,Prefix,Torment,Your Maps are haunted by an additional Tormented Spirit,Your Maps are haunted by an additional Tormented Spirit,100
+Burial Idol,3x1,Suffix,Breach,Breachstones dropped by Breach Bosses in your Maps have (3–5)% chance to be Flawless,Breachstones dropped by Breach Bosses in your Maps have #% chance to be Flawless,3–5
+Burial Idol,3x1,Suffix,Breach,Breaches in your Maps have (8–12)% increased Monster density,Breaches in your Maps have #% increased Monster density,8–12
+Burial Idol,3x1,Suffix,Heist,"Legion Monsters in your Maps which have Rewards have (8–12)% chance to gain two additional Rewards, and if not have (15–20)% chance to gain one additional Reward","Legion Monsters in your Maps which have Rewards have #% chance to gain two additional Rewards, and if not have #% chance to gain one additional Reward",8–12
+Totemic Idol,1x3,Prefix,Bestiary,Your Maps have (192–240)% increased chance to contain Einhar,Your Maps have #% increased chance to contain Einhar,192–240
+Totemic Idol,1x3,Prefix,Expedition,Your Maps have +(40–60)% chance to contain an Expedition Encounter,Your Maps have +#% chance to contain an Expedition Encounter,40–60
+Totemic Idol,1x3,Prefix,Expedition,Your Maps have (192–240)% increased chance to contain an Expedition Encounter,Your Maps have #% increased chance to contain an Expedition Encounter,192–240
+Totemic Idol,1x3,Prefix,Heist,Your Maps have +(40–60)% chance to contain a Smuggler's Cache,Your Maps have +#% chance to contain a Smuggler's Cache,40–60
+Totemic Idol,1x3,Prefix,Strongboxes,Your Maps contain an additional Strongbox,Your Maps contain an additional Strongbox,100
+Totemic Idol,1x3,Prefix,Torment,Up to 5 Rare Monsters in each of your Maps are Possessed and their Minions are Touched,Up to 5 Rare Monsters in each of your Maps are Possessed and their Minions are Touched,100
+Totemic Idol,1x3,Suffix,Abyss,Abysses in your Maps have (40–60)% increased chance to lead to an Abyssal Depths,Abysses in your Maps have #% increased chance to lead to an Abyssal Depths,40–60
+Totemic Idol,1x3,Suffix,Breach,Breaches in your Maps open and close (6–10)% faster,Breaches in your Maps open and close #% faster,6-10
+Totemic Idol,1x3,Suffix,Delve,Voltaxic Sulphite Veins and Chests in your Maps have (4–6)% chance to contain double Sulphite,Voltaxic Sulphite Veins and Chests in your Maps have #% chance to contain double Sulphite,4–6
+Totemic Idol,1x3,Suffix,Essence,Imprisoned Monsters in your Maps have (12–17)% chance to have 3 additional Essences,Imprisoned Monsters in your Maps have #% chance to have 3 additional Essences,12–17
+Totemic Idol,1x3,Suffix,Heist,Smuggler's Caches drop (8–12)% more Rogue Markers for each Smuggler's Cache opened in the Area,Smuggler's Caches drop #% more Rogue Markers for each Smuggler's Cache opened in the Area,8–12
+Totemic Idol,1x3,Suffix,Heist,Legion Encounters in your Maps have (100–150)% increased chance to include an Eternal Empire army,Legion Encounters in your Maps have #% increased chance to include an Eternal Empire army,100–150
+Totemic Idol,1x3,Suffix,Ritual,Ritual Altars in your Maps spawn Monsters (15–20)% faster,Ritual Altars in your Maps spawn Monsters #% faster,15–20
+Totemic Idol,1x3,Suffix,Eater,(15–20)% increased chance to find Eater of Worlds Altars in your Maps,#% increased chance to find Eater of Worlds Altars in your Maps,15–20
+Conqueror Idol,2x2,Prefix,Harbinger,Your Maps have a (20–30)% chance to contain an additional Harbinger,Your Maps have a #% chance to contain an additional Harbinger,20–30
+Conqueror Idol,2x2,Prefix,Legion,Your Maps have (224–280)% increased chance to contain a Legion Encounter,Your Maps have #% increased chance to contain a Legion Encounter,224–280
+Conqueror Idol,2x2,Prefix,Maps,(3–4)% chance on Completing your Maps to gain a free use of a special Map Crafting option,#% chance on Completing your Maps to gain a free use of a special Map Crafting option,3–4
+Conqueror Idol,2x2,Suffix,Breach,Breach Boss' Clasped Hands in your Maps have (3–5)% chance to spawn a Breach Boss when opened,Breach Boss' Clasped Hands in your Maps have #% chance to spawn a Breach Boss when opened,3–5
+Conqueror Idol,2x2,Suffix,Delirium,Delirious Unique Monsters in your Maps have a (2–3)% chance to drop an additional Cluster Jewel,Delirious Unique Monsters in your Maps have a #% chance to drop an additional Cluster Jewel,2–3
+Minor Idol,1x1,Prefix,Blight,Your Maps have +(15–25)% chance to contain a Blight Encounter,Your Maps have +#% chance to contain a Blight Encounter,15–25
+Minor Idol,1x1,Prefix,Blight,Your Maps have (80–100)% increased chance to contain a Blight Encounter,Your Maps have #% increased chance to contain a Blight Encounter,80–100
+Minor Idol,1x1,Suffix,Abyss,Abyssal Troves and Stygian Spires in your Maps have (15–25)% increased chance to contain or drop an Abyss Jewel,Abyssal Troves and Stygian Spires in your Maps have #% increased chance to contain or drop an Abyss Jewel,15–25
+Minor Idol,1x1,Suffix,Bestiary,(5–10)% chance to create a copy of Beasts Captured in your Maps,#% chance to create a copy of Beasts Captured in your Maps,5–10
+Minor Idol,1x1,Suffix,Bestiary,Red Beasts in your Maps have (40–60)% increased chance to be from The Caverns,Red Beasts in your Maps have #% increased chance to be from The Caverns,40–60
+Minor Idol,1x1,Suffix,Beyond,Beyond Demons in your Maps have (35–45)% increased chance to be followers of Ghorr,Beyond Demons in your Maps have #% increased chance to be followers of Ghorr,35–45
+Minor Idol,1x1,Suffix,Breach,"Uul-Netol, Unburdened Flesh in your Maps has a (20–30)% chance to be Duplicated","Uul-Netol, Unburdened Flesh in your Maps has a #% chance to be Duplicated",20–30
+Minor Idol,1x1,Suffix,Harbinger,Harbingers in your Maps have (20–30)% increased Cooldown Recovery Rate,Harbingers in your Maps have #% increased Cooldown Recovery Rate,20–30
+Minor Idol,1x1,Suffix,Betrayal,Immortal Syndicate Members Executed in your Maps have (40–60)% chance to gain an additional Rank,Immortal Syndicate Members Executed in your Maps have #% chance to gain an additional Rank,40–60
+Minor Idol,1x1,Suffix,Vaal,Items dropped by Rare Monsters have (3–5)% chance to be Corrupted,Items dropped by Rare Monsters have #% chance to be Corrupted,3–5
+Minor Idol,1x1,Suffix,Scouting Reports,(3–5)% chance for Scouting Reports to drop as Operative's Scouting Reports instead in your Maps,#% chance for Scouting Reports to drop as Operative's Scouting Reports instead in your Maps,3–5
+Kamasan Idol,1x2,Prefix,Incursion,Your Maps have (144–180)% increased chance to contain Alva,Your Maps have #% increased chance to contain Alva,144–180
+Kamasan Idol,1x2,Prefix,Betrayal,Your Maps have +(30–45)% chance to contain Jun,Your Maps have +#% chance to contain Jun,30–45
+Kamasan Idol,1x2,Suffix,Bestiary,Your Maps that contain capturable Beasts have (12–18)% chance to contain an additional Red Beast,Your Maps that contain capturable Beasts have #% chance to contain an additional Red Beast,12–18
+Kamasan Idol,1x2,Suffix,Delirium,Delirium Bosses in your Maps have (30–40)% increased chance to drop Unique Cluster Jewels,Delirium Bosses in your Maps have #% increased chance to drop Unique Cluster Jewels,30–40
+Kamasan Idol,1x2,Suffix,Ultimatum,Ultimatum Encounters in your Maps requiring you to Defeat waves of Enemies require killing (3–5)% reduced number of Enemies,Ultimatum Encounters in your Maps requiring you to Defeat waves of Enemies require killing #% reduced number of Enemies,3–5
+Noble Idol,2x1,Prefix,Ultimatum,Your Maps have (144–180)% increased chance to contain an Ultimatum Encounter,Your Maps have #% increased chance to contain an Ultimatum Encounter,144–180
+Noble Idol,2x1,Prefix,Torment,Map Bosses have (6–8)% chance to be surrounded by Tormented Spirits,Map Bosses have #% chance to be surrounded by Tormented Spirits,6–8
+Noble Idol,2x1,Suffix,Blight,Lanes of Blight Encounters in your Maps have (6–8)% chance for an additional Reward Chest,Lanes of Blight Encounters in your Maps have #% chance for an additional Reward Chest,6–8
+Noble Idol,2x1,Suffix,Blight,Blight Monsters in your Maps spawn (40–60)% faster,Blight Monsters in your Maps spawn #% faster,40–60
+Noble Idol,2x1,Suffix,Expedition,(6–10)% increased number of Explosives in your Maps,#% increased number of Explosives in your Maps,6–10
+Noble Idol,2x1,Suffix,Harbinger,Harbingers in your Maps have (40–60)% chance to drop an additional Stack of Currency Shards,Harbingers in your Maps have #% chance to drop an additional Stack of Currency Shards,40–60
+Noble Idol,2x1,Suffix,Ultimatum,Ultimatum Encounters in your Maps requiring you to Defeat waves of Enemies require killing (3–5)% reduced number of Enemies,Ultimatum Encounters in your Maps requiring you to Defeat waves of Enemies require killing #% reduced number of Enemies,3–5
+Burial Idol,3x1,Prefix,Betrayal,Your Maps have (192–240)% increased chance to contain Jun,Your Maps have #% increased chance to contain Jun,192–240
+Burial Idol,3x1,Suffix,Harvest,Harvests in your Maps have (8–12)% chance for the unchosen Crop to not wilt,Harvests in your Maps have #% chance for the unchosen Crop to not wilt,8–12
+Burial Idol,3x1,Suffix,Pack Size,(5–10)% increased Pack Size of your Maps affected by Fortune Favours the Brave,#% increased Pack Size of your Maps affected by Fortune Favours the Brave,5–10
+Burial Idol,3x1,Suffix,Maps,(10–20)% increased Rarity of Items found in your Maps affected by Fortune Favours the Brave,#% increased Rarity of Items found in your Maps affected by Fortune Favours the Brave,10–20
+Burial Idol,3x1,Suffix,Strongboxes,Divination Cards from Strongboxes in your Maps are Duplicated,Divination Cards from Strongboxes in your Maps are Duplicated,100
+Totemic Idol,1x3,Prefix,Rogue Exiles,Your Maps have +(15–25)% chance to contain a Rogue Exile,Your Maps have +#% chance to contain a Rogue Exile,15–25
+Totemic Idol,1x3,Prefix,Blight,Your Maps have (192–240)% increased chance to contain a Blight Encounter,Your Maps have #% increased chance to contain a Blight Encounter,192–240
+Totemic Idol,1x3,Prefix,Delve,Your Maps have (192–240)% increased chance to contain Niko,Your Maps have #% increased chance to contain Niko,192–240
+Totemic Idol,1x3,Prefix,Harvest,Your Maps have (192–240)% increased chance to contain The Sacred Grove,Your Maps have #% increased chance to contain The Sacred Grove,192–240
+Totemic Idol,1x3,Prefix,Heist,Your Maps have (192–240)% increased chance to contain a Smuggler's Cache,Your Maps have #% increased chance to contain a Smuggler's Cache,192–240
+Totemic Idol,1x3,Suffix,Breach,Breaches in your Maps have (35–45)% increased chance to contain a Boss,Breaches in your Maps have #% increased chance to contain a Boss,35–45
+Totemic Idol,1x3,Suffix,Breach,Breaches in your Maps have (10–15)% chance to contain a Hand of Xesht-Ula,Breaches in your Maps have #% chance to contain a Hand of Xesht-Ula,10–15
+Totemic Idol,1x3,Suffix,Harvest,The Sacred Grove in your Maps has (40–60)% chance to contain an additional Harvest,The Sacred Grove in your Maps has #% chance to contain an additional Harvest,40–60
+Totemic Idol,1x3,Suffix,Heist,"Legion Monsters in your Maps which have Rewards have (8–12)% chance to gain two additional Rewards, and if not have (15–20)% chance to gain one additional Reward","Legion Monsters in your Maps which have Rewards have #% chance to gain two additional Rewards, and if not have #% chance to gain one additional Reward",8–12
+Totemic Idol,1x3,Suffix,Vaal,Items dropped by Unique Monsters have (10–15)% chance to be Corrupted,Items dropped by Unique Monsters have #% chance to be Corrupted,10–15
+Conqueror Idol,2x2,Prefix,Incursion,Your Maps have +(45–70)% chance to contain Alva,Your Maps have +#% chance to contain Alva,45–70
+Conqueror Idol,2x2,Prefix,Beyond,(45–70)% chance for your Maps to attract Beyond Demons,#% chance for your Maps to attract Beyond Demons,45–70
+Conqueror Idol,2x2,Prefix,Beyond,Your Maps have +(45–70)% chance to contain a Blight Encounter,Your Maps have +#% chance to contain a Blight Encounter,45–70
+Conqueror Idol,2x2,Prefix,Breach,Your Maps which contain Breaches have (1–2)% chance to contain ten additional Breaches,Your Maps which contain Breaches have #% chance to contain ten additional Breaches,1–2
+Conqueror Idol,2x2,Suffix,Incursion,Your Maps with Incursions always have four Incursions,Your Maps with Incursions always have four Incursions,100
+Conqueror Idol,2x2,Suffix,Rogue Exiles,Wild Rogue Exiles in your Maps have (40–60)% chance to have additional Rewards,Wild Rogue Exiles in your Maps have #% chance to have additional Rewards,40–60
+Conqueror Idol,2x2,Suffix,Beyond,Slaying Enemies in your Maps has a (12–18)% increased chance to spawn a Beyond Portal,Slaying Enemies in your Maps has a #% increased chance to spawn a Beyond Portal,12–18
+Conqueror Idol,2x2,Suffix,Betrayal,Immortal Syndicate Members in your Maps drop (100–200)% more Items when Bargained with for Items,Immortal Syndicate Members in your Maps drop #% more Items when Bargained with for Items,100–200
+Conqueror Idol,2x2,Suffix,Betrayal,Completing your Maps grants (10–15) Intelligence for a random Immortal Syndicate Safehouse,Completing your Maps grants # Intelligence for a random Immortal Syndicate Safehouse,10–15
+Conqueror Idol,2x2,Suffix,Strongboxes,Strongboxes in your Maps are at least Rare,Strongboxes in your Maps are at least Rare,100
+Conqueror Idol,2x2,Suffix,Maps,Defeating a Map Boss while Witnessed by The Maven has (10–15)% chance to count as also Witnessing an additional random Map Boss,Defeating a Map Boss while Witnessed by The Maven has #% chance to count as also Witnessing an additional random Map Boss,10–15
+Minor Idol,1x1,Prefix,Harbinger,Your Maps have a (35–50)% chance to contain an additional Harbinger,Your Maps have a #% chance to contain an additional Harbinger,35–50
+Minor Idol,1x1,Suffix,Delirium,Delirious Monsters Killed in your Maps provide (10–20)% increased Reward Progress,Delirious Monsters Killed in your Maps provide #% increased Reward Progress,10–20
+Minor Idol,1x1,Suffix,Harvest,Harvest Monsters in your Maps grant (70–90)% increased Experience,Harvest Monsters in your Maps grant #% increased Experience,70–90
+Minor Idol,1x1,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (20–30)% increased chance to be Jewellery,Ultimatum Rewards in your Maps have #% increased chance to be Jewellery,20–30
+Minor Idol,1x1,Suffix,Eater,Your Maps have (4–6)% chance to award double progress towards encountering The Eater of Worlds,Your Maps have #% chance to award double progress towards encountering The Eater of Worlds,4–6
+Minor Idol,1x1,Suffix,Scouting Reports,(2–4)% chance for Scouting Reports to drop as Otherworldly Scouting Reports instead in your Maps,#% chance for Scouting Reports to drop as Otherworldly Scouting Reports instead in your Maps,2–4
+Kamasan Idol,1x2,Prefix,Blight,Your Maps have +(30–45)% chance to contain a Blight Encounter,Your Maps have +#% chance to contain a Blight Encounter,30–45
+Kamasan Idol,1x2,Prefix,Expedition,Your Maps have +(30–45)% chance to contain an Expedition Encounter,Your Maps have +#% chance to contain an Expedition Encounter,30–45
+Kamasan Idol,1x2,Prefix,Harvest,Your Maps have (144–180)% increased chance to contain The Sacred Grove,Your Maps have #% increased chance to contain The Sacred Grove,144–180
+Kamasan Idol,1x2,Prefix,Legion,Your Maps have +(30–45)% chance to contain a Legion Encounter,Your Maps have +#% chance to contain a Legion Encounter,30–45
+Kamasan Idol,1x2,Suffix,Blight,(15–25)% chance for Blight Chests to contain an additional Reward,#% chance for Blight Chests to contain an additional Reward,15–25
+Kamasan Idol,1x2,Suffix,Heist,Heist Contracts found in your Maps are (75–125)% more likely to require level 4 Jobs,Heist Contracts found in your Maps are #% more likely to require level 4 Jobs,75–125
+Kamasan Idol,1x2,Suffix,Legion,Legion Encounters in your Maps have (40–60)% increased Duration,Legion Encounters in your Maps have #% increased Duration,40–60
+Noble Idol,2x1,Prefix,Abyss,Your Maps have +(30–45)% chance to contain an Abyss,Your Maps have +#% chance to contain an Abyss,30–45
+Noble Idol,2x1,Prefix,Shrine,Your Maps have +(12–18)% chance to contain a Shrine,Your Maps have +#% chance to contain a Shrine,12–18
+Noble Idol,2x1,Suffix,Blight,Blight Bosses in your Maps have (14–18)% chance to add an additional Reward Chest when Defeated,Blight Bosses in your Maps have #% chance to add an additional Reward Chest when Defeated,14–18
+Noble Idol,2x1,Suffix,Breach,(20–25)% increased Quantity of Breach Splinters found in Breach Hands in your Maps,#% increased Quantity of Breach Splinters found in Breach Hands in your Maps,20–25
+Noble Idol,2x1,Suffix,Legion,Legion Encounters in your Maps have (40–60)% increased Duration,Legion Encounters in your Maps have #% increased Duration,40–60
+Noble Idol,2x1,Suffix,Legion,Legion Monsters in your Maps have (10–15)% increased Pack Size,Legion Monsters in your Maps have #% increased Pack Size,10–15
+Burial Idol,3x1,Suffix,Abyss,Abysses in your Maps that do not lead to an Abyssal Depths have (40–60)% increased chance to lead to a Stygian Spire,Abysses in your Maps that do not lead to an Abyssal Depths have #% increased chance to lead to a Stygian Spire,40–60
+Burial Idol,3x1,Suffix,Beyond,(20–25)% more Divination Cards found from Beyond Demons in your Maps that are followers of K'Tash,#% more Divination Cards found from Beyond Demons in your Maps that are followers of K'Tash,20–25
+Burial Idol,3x1,Suffix,Delve,You Gain (30–40)% increased Damage per stack of Sulphite Intoxication.,You Gain #% increased Damage per stack of Sulphite Intoxication.,30–40
+Burial Idol,3x1,Suffix,Ultimatum,Inscribed Ultimatums found in your Maps have (40–60)% increased chance to reward Currency Items,Inscribed Ultimatums found in your Maps have #% increased chance to reward Currency Items,40–60
+Burial Idol,3x1,Suffix,Ritual,Deferring Favours at Ritual Altars in your Maps costs (15–20)% reduced Tribute,Deferring Favours at Ritual Altars in your Maps costs #% reduced Tribute,15–20
+Totemic Idol,1x3,Prefix,Harvest,Your Maps have +(40–60)% chance to contain The Sacred Grove,Your Maps have +#% chance to contain The Sacred Grove,40–60
+Totemic Idol,1x3,Prefix,Ultimatmum,Your Maps have (192–240)% increased chance to contain an Ultimatum Encounter,Your Maps have #% increased chance to contain an Ultimatum Encounter,192–240
+Totemic Idol,1x3,Prefix,Maps,Your Maps have (2–2.5)% chance to grant an additional Kirac Mission on Completion,Your Maps have #% chance to grant an additional Kirac Mission on Completion,2-2.5
+Totemic Idol,1x3,Suffix,Beyond,Beyond Portals in your Maps have (25–35)% increased chance to spawn a Unique Boss,Beyond Portals in your Maps have #% increased chance to spawn a Unique Boss,25–35
+Totemic Idol,1x3,Suffix,Breach,Breachstones dropped by Breach Bosses in your Maps have (3–5)% chance to be Flawless,Breachstones dropped by Breach Bosses in your Maps have #% chance to be Flawless,3–5
+Totemic Idol,1x3,Suffix,Heist,Heist Contracts found in your Maps are (45–65)% more likely to target Precious Targets,Heist Contracts found in your Maps are #% more likely to target Precious Targets,45–65
+Totemic Idol,1x3,Suffix,Heist,(40–60)% increased Rarity of Items Dropped by Immortal Syndicate Members in your Maps,#% increased Rarity of Items Dropped by Immortal Syndicate Members in your Maps,40–60
+Totemic Idol,1x3,Suffix,Strongboxes,Currency Items from Strongboxes in your Maps are Duplicated,Currency Items from Strongboxes in your Maps are Duplicated,100
+Conqueror Idol,2x2,Prefix,Expedition,Your Maps have +(45–70)% chance to contain an Expedition Encounter,Your Maps have +#% chance to contain an Expedition Encounter,45–70
+Conqueror Idol,2x2,Prefix,Strongboxes,Your Maps have +(20–30)% chance to contain a Strongbox,Your Maps have +#% chance to contain a Strongbox,20–30
+Conqueror Idol,2x2,Suffix,Abyss,Abysses in your Maps that do not lead to an Abyssal Depths lead to 4 Pits if able,Abysses in your Maps that do not lead to an Abyssal Depths lead to 4 Pits if able,100
+Conqueror Idol,2x2,Suffix,Shrine,Shrines in your Maps have (8–12)% chance to be a Covetous Shrine,Shrines in your Maps have #% chance to be a Covetous Shrine,8–12
+Conqueror Idol,2x2,Suffix,Expedition,Expeditions in your Maps have +(1–2) Remnants,Expeditions in your Maps have +# Remnants,1–2
+Minor Idol,1x1,Prefix,Delve,Your Maps have (80–100)% increased chance to contain Niko,Your Maps have #% increased chance to contain Niko,80–100
+Minor Idol,1x1,Prefix,Delve,Your Yellow Tier Maps grant (150–200) additional Voltaxic Sulphite on Completion,Your Yellow Tier Maps grant # additional Voltaxic Sulphite on Completion,150–200
+Minor Idol,1x1,Prefix,Ritual,Your Maps have (80–100)% increased chance to contain Ritual Altars,Your Maps have #% increased chance to contain Ritual Altars,80–100
+Minor Idol,1x1,Suffix,Bestiary,Red Beasts in your Maps have (40–60)% increased chance to be from The Deep,Red Beasts in your Maps have #% increased chance to be from The Deep,40–60
+Minor Idol,1x1,Suffix,Heist,"Heist Contracts found in your Maps are (40–60)% more likely to require Lockpicking, Brute Force or Perception","Heist Contracts found in your Maps are #% more likely to require Lockpicking, Brute Force or Perception",40–60
+Minor Idol,1x1,Suffix,Heist,"Heist Contracts found in your Maps are (40–60)% more likely to require Demolition, Counter-Thaumaturgy or Trap Disarmament","Heist Contracts found in your Maps are #% more likely to require Demolition, Counter-Thaumaturgy or Trap Disarmament",40–60
+Minor Idol,1x1,Suffix,Legion,Legion Chests released from Stasis in your Maps release other Monsters and Chests with (35–50)% increased Range,Legion Chests released from Stasis in your Maps release other Monsters and Chests with #% increased Range,35–50
+Kamasan Idol,1x2,Prefix,Maps,Final Map Boss in each Map has +(1.8–2.4)% chance to drop an Elder Guardian Map (Tier 14+),Final Map Boss in each Map has +#% chance to drop an Elder Guardian Map (Tier 14+),1.8-2.4
+Kamasan Idol,1x2,Prefix,Ritual,Your Maps have +(30–45)% chance to contain Ritual Altars,Your Maps have +#% chance to contain Ritual Altars,30–45
+Kamasan Idol,1x2,Suffix,Blight,Blight Monsters in your Maps spawn (40–60)% faster,Blight Monsters in your Maps spawn #% faster,40–60
+Kamasan Idol,1x2,Suffix,Breach,Breaches in your Maps have (80–120)% increased chance to belong to Tul,Breaches in your Maps have #% increased chance to belong to Tul,80–120
+Kamasan Idol,1x2,Suffix,Delirium,Delirium Monsters in your Maps have (15–25)% increased chance to drop Cluster Jewels,Delirium Monsters in your Maps have #% increased chance to drop Cluster Jewels,15–25
+Kamasan Idol,1x2,Suffix,Ultimatum,Ultimatum Rewards in your Maps have (25–35)% increased chance to be Inscribed Ultimatums,Ultimatum Rewards in your Maps have #% increased chance to be Inscribed Ultimatums,25–35
+Kamasan Idol,1x2,Suffix,Ritual,Favours Rerolled at Ritual Altars in your Maps have (0.8–1.2)% chance to cost no Tribute,Favours Rerolled at Ritual Altars in your Maps have #% chance to cost no Tribute,0.8-1.2
+Kamasan Idol,1x2,Suffix,Scarabs,Scarabs dropped in your Maps are (60–80)% more likely to be Beyond Scarabs,Scarabs dropped in your Maps are #% more likely to be Beyond Scarabs,60–80
+Noble Idol,2x1,Prefix,Abyss,Your Maps have (144–180)% increased chance to contain an Abyss,Your Maps have #% increased chance to contain an Abyss,144–180
+Noble Idol,2x1,Prefix,Beyond,(30–45)% chance for your Maps to attract Beyond Demons,#% chance for your Maps to attract Beyond Demons,30–45
+Noble Idol,2x1,Prefix,Heist,Your Maps have +(30–45)% chance to contain a Smuggler's Cache,Your Maps have +#% chance to contain a Smuggler's Cache,30–45
+Noble Idol,2x1,Suffix,Pack Size,Monster Packs Influenced by Conquerors in your Maps have (8–12)% increased Pack Size,Monster Packs Influenced by Conquerors in your Maps have #% increased Pack Size,8–12
+Noble Idol,2x1,Suffix,Expedition,(10–15)% increased quantity of Artifacts dropped by Monsters,#% increased quantity of Artifacts dropped by Monsters,10–15
+Noble Idol,2x1,Suffix,Expedition,Expedition Detonation Chains in your Maps travel (12–18)% slower,Expedition Detonation Chains in your Maps travel #% slower,12–18
+Noble Idol,2x1,Suffix,Scarabs,Scarabs found in your Maps are (60–80)% more likely to be Ambush Scarabs,Scarabs found in your Maps are #% more likely to be Ambush Scarabs,60–80
+Burial Idol,3x1,Prefix,Abyss,Your Maps have (192–240)% increased chance to contain an Abyss,Your Maps have #% increased chance to contain an Abyss,192–240
+Burial Idol,3x1,Prefix,Incursion,Your Maps have +(40–60)% chance to contain Alva,Your Maps have +#% chance to contain Alva,40–60
+Burial Idol,3x1,Prefix,Rogue Exiles,Your Maps have +(15–25)% chance to contain a Rogue Exile,Your Maps have +#% chance to contain a Rogue Exile,15–25
+Burial Idol,3x1,Prefix,Harvest,Your Maps have (192–240)% increased chance to contain The Sacred Grove,Your Maps have #% increased chance to contain The Sacred Grove,192–240
+Burial Idol,3x1,Prefix,Maps,Final Map Boss in each Map has (4–6)% chance to drop an additional connected Map,Final Map Boss in each Map has #% chance to drop an additional connected Map,4–6
+Burial Idol,3x1,Suffix,Abyss,Abyss Pits in your Maps have (10–20)% chance to spawn all Monsters as at least Magic,Abyss Pits in your Maps have #% chance to spawn all Monsters as at least Magic,10–20
+Burial Idol,3x1,Suffix,Rogue Exiles,Wild Rogue Exiles in your Maps have (75–100)% chance to be Possessed by a Tormented Spirit,Wild Rogue Exiles in your Maps have #% chance to be Possessed by a Tormented Spirit,75–100
+Burial Idol,3x1,Suffix,Beyond,(20–25)% more Unique Items found from Beyond Demons in your Maps that are followers of Ghorr,#% more Unique Items found from Beyond Demons in your Maps that are followers of Ghorr,20–25
+Burial Idol,3x1,Suffix,Breach,Breaches in your Maps have (10–15)% chance to contain a Hand of Xesht-Ula,Breaches in your Maps have #% chance to contain a Hand of Xesht-Ula,10–15
+Burial Idol,3x1,Suffix,Delirium,Delirium Rewards in your Maps have (8–12)% increased chance to give Delirium Orbs,Delirium Rewards in your Maps have #% increased chance to give Delirium Orbs,8–12
+Burial Idol,3x1,Suffix,Shrine,Shrines in your Maps have (40–60)% chance to be guarded by an additional Pack of Monsters,Shrines in your Maps have #% chance to be guarded by an additional Pack of Monsters,40–60
+Burial Idol,3x1,Suffix,Harvest,Harvest Monsters in your Maps drop (12–18)% increased Quantity of Lifeforce,Harvest Monsters in your Maps drop #% increased Quantity of Lifeforce,12–18
+Burial Idol,3x1,Suffix,Heist,Smuggler's Caches drop (8–12)% more Rogue Markers for each Smuggler's Cache opened in the Area,Smuggler's Caches drop #% more Rogue Markers for each Smuggler's Cache opened in the Area,8–12
+Burial Idol,3x1,Suffix,Heist,Splinters dropped by Legion Monsters or contained in Legion Chests in your Maps have (15–20)% chance to be Duplicated,Splinters dropped by Legion Monsters or contained in Legion Chests in your Maps have #% chance to be Duplicated,15–20
+Burial Idol,3x1,Suffix,Heist,Splinters dropped by Legion Monsters in your Maps have (20–25)% chance to be Duplicated,Splinters dropped by Legion Monsters in your Maps have #% chance to be Duplicated,20–25
+Burial Idol,3x1,Suffix,Scarabs,Final Map Boss in each Map has (20–25)% chance to drop an additional Scarab,Final Map Boss in each Map has #% chance to drop an additional Scarab,20–25
+Totemic Idol,1x3,Prefix,Abyss,Your Maps have (192–240)% increased chance to contain an Abyss,Your Maps have #% increased chance to contain an Abyss,192–240
+Totemic Idol,1x3,Prefix,Incursion,Your Maps have +(40–60)% chance to contain Alva,Your Maps have +#% chance to contain Alva,40–60
+Totemic Idol,1x3,Prefix,Breach,Your Maps have +(40–60)% chance to contain Breaches,Your Maps have +#% chance to contain Breaches,40–60
+Totemic Idol,1x3,Prefix,Shrine,Your Maps have +(15–25)% chance to contain a Shrine,Your Maps have +#% chance to contain a Shrine,15–25
+Totemic Idol,1x3,Suffix,Blight,Oils found in your Maps have (20–25)% chance to be 1 tier higher,Oils found in your Maps have #% chance to be 1 tier higher,20–25
+Totemic Idol,1x3,Suffix,Heist,Smuggler's Caches in your Maps have (40–60)% increased chance to drop Contracts,Smuggler's Caches in your Maps have #% increased chance to drop Contracts,40–60
+Totemic Idol,1x3,Suffix,Heist,Legion Encounters in your Maps have (80–120)% increased chance to include a Vaal army,Legion Encounters in your Maps have #% increased chance to include a Vaal army,80–120
+Totemic Idol,1x3,Suffix,Ultimatum,Inscribed Ultimatums found in your Maps have (40–60)% increased chance to reward Divination Cards,Inscribed Ultimatums found in your Maps have #% increased chance to reward Divination Cards,40–60
+Conqueror Idol,2x2,Prefix,Abyss,Your Maps have +(45–70)% chance to contain an Abyss,Your Maps have +#% chance to contain an Abyss,45–70
+Conqueror Idol,2x2,Prefix,Abyss,Your Maps have +(3–5)% chance to contain an Abyss per 2% increased Pack Size,Your Maps have +#% chance to contain an Abyss per 2% increased Pack Size,3–5
+Conqueror Idol,2x2,Prefix,Bestiary,Your Maps have (224–280)% increased chance to contain Einhar,Your Maps have #% increased chance to contain Einhar,224–280
+Conqueror Idol,2x2,Prefix,Ritual,Your Maps have +(45–70)% chance to contain Ritual Altars,Your Maps have +#% chance to contain Ritual Altars,45–70
+Conqueror Idol,2x2,Prefix,Torment,Your Maps have +(20–30)% chance to be haunted by a Tormented Spirit,Your Maps have +#% chance to be haunted by a Tormented Spirit,20–30
+Conqueror Idol,2x2,Prefix,Maps,(3–5)% increased effect of Explicit Modifiers on your Maps per 5% Map Quality,#% increased effect of Explicit Modifiers on your Maps per 5% Map Quality,3–5
+Conqueror Idol,2x2,Suffix,Torment,Tormented Spirits in your Maps are more likely to be less common varieties,Tormented Spirits in your Maps are more likely to be less common varieties,100
