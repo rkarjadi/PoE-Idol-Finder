@@ -144,16 +144,26 @@ def add_content_tags_to_items(items):
 
     return items
 
-@app.route("/test")
-def test():
-    return {"test": ["test1", "test2"]}
-
 @app.route("/set_access_token/<a_token>")
 def set_access_token(a_token):
     global access_token
     access_token = a_token
 
     return f"Access Token set to: {access_token}"
+
+@app.route("/is_authorized")
+def is_authorized():
+    '''
+        Check if the user is authorized - if there is no access token, return False
+    '''
+
+    global access_token
+
+    if access_token:
+        return {"authorized": True}
+    
+    else:
+        return {"authorized": False}
 
 @app.route("/authorize")
 def authorize():
@@ -201,7 +211,8 @@ def oauth_callback():
     print("Access Token:", tokens)
     access_token = tokens.get("access_token")
 
-    return f"Access Token: {tokens['access_token']}"
+    # Redirect to port 3000?
+    return redirect("http://localhost:3000")
 
 @app.route("/get_stashes")
 def get_stashes():
@@ -222,7 +233,19 @@ def get_stashes():
     r = requests.get(f"https://api.pathofexile.com/stash/phrecia", headers=headers)
 
     if r.status_code == 200:
-        return r.json()
+        stashes = r.json()['stashes']
+        stash_list = []
+        
+        for stash in stashes:
+            if stash["type"] == "Folder":
+                for substash in stash["children"]:
+                    stash_list.append({"name": substash["name"], "id": substash["id"], "type": substash["type"]})
+
+            else:
+                stash_list.append({"name":stash["name"], "id": stash["id"], "type": stash["type"]})
+
+        return stash_list
+
 
     else:
         return f"Error: {r.status_code} - {r.text}", 400
