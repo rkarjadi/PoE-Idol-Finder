@@ -1,6 +1,7 @@
 from urllib.parse import urlencode
 from dotenv import load_dotenv
 from flask import Flask, request, redirect, jsonify
+from flask_cors import CORS
 
 import threading
 import pprint
@@ -13,16 +14,22 @@ import csv
 import re
 from collections import defaultdict
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
-global_code_verifier = None
 access_token = None
 stash_items = None
 idol_with_tags = None
+code_verifier = None
+state = None
 
 load_dotenv()
 
+
 CLIENT_ID = os.getenv('CLIENT_ID')
+REDIRECT_URI = os.getenv('REDIRECT_URI')
+SCOPES = os.getenv('SCOPES').split(',')
 
 pp = pprint.PrettyPrinter(indent = 4)
 
@@ -55,11 +62,9 @@ def generate_auth_url(client_id, redirect_uri, scopes):
     '''
         Generates OAuth 2.0 URL for PoE
     '''
-    global global_code_verifier
 
     state = secrets.token_hex(16)
     code_verifier, code_challenge = generate_pkce_code()
-    global_code_verifier = code_verifier
 
     base_url = "https://www.pathofexile.com/oauth/authorize"
     params = {
@@ -138,7 +143,11 @@ def add_content_tags_to_items(items):
         item['contentTags'] = content_tags
 
     return items
-    
+
+@app.route("/test")
+def test():
+    return {"test": ["test1", "test2"]}
+
 @app.route("/set_access_token/<a_token>")
 def set_access_token(a_token):
     global access_token
@@ -146,10 +155,29 @@ def set_access_token(a_token):
 
     return f"Access Token set to: {access_token}"
 
+@app.route("/authorize")
+def authorize():
+    '''
+        Prompts the user to authorize the project
+    '''
+
+    global code_verifier, state
+
+    client_id = CLIENT_ID
+    redirect_uri = REDIRECT_URI
+    scopes = SCOPES
+    auth_url, code_verifier, state = generate_auth_url(client_id, redirect_uri, scopes)
+
+    return redirect(auth_url)
+
     
 @app.route("/callback")
 def oauth_callback():
-    global global_code_verifier, access_token
+    global code_verifier, access_token, state
+
+    client_id = CLIENT_ID
+    redirect_uri = REDIRECT_URI
+    scopes = SCOPES
 
     print("Callback function triggered!")
     print("Received request args:", request.args)
@@ -157,16 +185,18 @@ def oauth_callback():
     received_code = request.args.get("code")
     received_state = request.args.get("state")
 
-    if not received_code:
-        print("Error: No code received.")
-        return "Error: No authorization code received.", 400
+    print(f"Global state: {state}")
 
-    if not received_state:
+    print(f"Received state: {received_state}")
+
+
+    # if not received_state:
+    if received_state != state:
         print("Error: State mismatch.")
         return "Error: State mismatch! Possible CSRF attack.", 400
 
     # Exchange the code for tokens
-    tokens = exchange_code_for_token(client_id, received_code, redirect_uri, global_code_verifier, scopes)
+    tokens = exchange_code_for_token(client_id, received_code, redirect_uri, code_verifier, scopes)
 
     print("Access Token:", tokens)
     access_token = tokens.get("access_token")
@@ -254,22 +284,6 @@ def get_idols_with_content_tags(stash_id):
 
         return idol_with_tags
 
-# Start the Flask server in a separate thread
-def run_flask():
-    app.run(host="localhost", port=5000, debug=True)
 
 if __name__ == "__main__":
-    client_id = CLIENT_ID
-    redirect_uri = "http://localhost:5000/callback"
-    scopes = ["account:stashes", "account:leagues"]
-
-    auth_url = generate_auth_url(client_id, redirect_uri, scopes)
-    print(f"Visit this URL to authorize:\n{auth_url}")
-
-    # Start Flask in a separate thread
-    # threading.Thread(target=run_flask, daemon=True).start()
-    run_flask()
-
-    # # Generate the authorization URL
-    # auth_url = generate_auth_url(client_id, redirect_uri, scopes)
-    # print(f"Visit this URL to authorize:\n{auth_url}")
+    app.run(host="localhost", port=5000, debug=True)

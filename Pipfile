@@ -8,6 +8,7 @@ requests = "*"
 dotenv = "*"
 flask = "*"
 pymongo = "*"
+flask-cors = "*"
 
 [dev-packages]
 
