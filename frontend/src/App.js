@@ -127,8 +127,8 @@ const App = () => {
               <tbody>
                 {filteredIdols.map((item, index) => (
                   <tr key={index}>
-                    <td><img src={item.icon} alt={item.name} /></td>
-                    <td>{item.name}</td>
+                    <td><img src={item.icon} alt={item.name || item.typeLine} /></td>
+                    <td>{item.name || item.typeLine}</td>
                     <td>{item.baseType}</td>
                     <td>
                       <ul>
