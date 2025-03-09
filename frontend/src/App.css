@@ -20,3 +20,7 @@ button, select {
   margin: 0 auto;
   max-width: 800px;
 }
+
+.stash-contents table th {
+  text-align: center;
+}

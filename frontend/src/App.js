@@ -114,26 +114,40 @@ const App = () => {
           {filteredIdols.length === 0 ? (
             <p>No idols found in Stash</p>
           ) : (
-            <ul>
-              {filteredIdols.map((item, index) => (
-                <li key={index}>
-                  <img src={item.icon} alt={item.name} /> <br />
-                  {item.name} ({item.baseType})<br />
-                  <strong>Mods:</strong>
-                  <ul>
-                    {item.explicitMods.map((mod, modIndex) => (
-                      <li key={modIndex}>{mod}</li>
-                    ))}
-                  </ul>
-                  <strong>Content Tags:</strong>
-                  <ul>
-                    {Object.entries(item.contentTags).map(([key, value], tagIndex) => (
-                      <li key={tagIndex}>{key}: {value}</li>
-                    ))}
-                  </ul>
-                </li>
-              ))}
-            </ul>
+            <table>
+              <thead>
+                <tr>
+                  <th>Icon</th>
+                  <th>Name</th>
+                  <th>Base Type</th>
+                  <th>Mods</th>
+                  <th>Content Tags</th>
+                </tr>
+              </thead>
+              <tbody>
+                {filteredIdols.map((item, index) => (
+                  <tr key={index}>
+                    <td><img src={item.icon} alt={item.name} /></td>
+                    <td>{item.name}</td>
+                    <td>{item.baseType}</td>
+                    <td>
+                      <ul>
+                        {item.explicitMods.map((mod, modIndex) => (
+                          <li key={modIndex}>{mod}</li>
+                        ))}
+                      </ul>
+                    </td>
+                    <td>
+                      <ul>
+                        {Object.entries(item.contentTags).map(([key, value], tagIndex) => (
+                          <li key={tagIndex}>{key}: {value}</li>
+                        ))}
+                      </ul>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
           )}
         </div>
       )}
