@@ -287,15 +287,15 @@ def get_idols_with_content_tags(stash_id):
         stash_response = client.get(f"/get_stash/{stash_id}")
         if stash_response.status_code != 200:
             return stash_response.data, stash_response.status_code
-        
+
         stash_items = stash_response.get_json()
         items = stash_items.get('stash', {}).get('items', [])
 
         idols = [item for item in items if 'Idol' in item['typeLine'] and item['rarity'] != 'Unique']
 
         if idols == []:
-            return "Error: No idols found in stash.", 400
-        
+            return []
+
         for idol in idols:
             idol_type = idol['baseType']
             explicit_mods = idol['explicitMods']
