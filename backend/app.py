@@ -105,7 +105,7 @@ def exchange_code_for_token(client_id, code, redirect_uri, code_verifier, scopes
         return response.json()  # Returns access_token, refresh_token, etc.
     else:
         return {"error": f"Token exchange failed: {response.status_code} - {response.text}"}
-    
+
 def count_mods_by_content_tag(explicit_mods, idol_type):
     """Count explicit mods by content tag based on idol collection."""
     content_tag_counts = defaultdict(int)
@@ -129,7 +129,7 @@ def count_mods_by_content_tag(explicit_mods, idol_type):
             content_tag_counts[content_tag] += 1
 
     return dict(content_tag_counts)  # Return the result as a dictionary
-    
+
 def add_content_tags_to_items(items):
     '''
         Gets the content tags of each item and adds it to a contentTag field
@@ -144,13 +144,6 @@ def add_content_tags_to_items(items):
 
     return items
 
-@app.route("/set_access_token/<a_token>")
-def set_access_token(a_token):
-    global access_token
-    access_token = a_token
-
-    return f"Access Token set to: {access_token}"
-
 @app.route("/is_authorized")
 def is_authorized():
     '''
@@ -161,7 +154,7 @@ def is_authorized():
 
     if access_token:
         return {"authorized": True}
-    
+
     else:
         return {"authorized": False}
 
@@ -180,9 +173,12 @@ def authorize():
 
     return redirect(auth_url)
 
-    
+
 @app.route("/callback")
 def oauth_callback():
+    '''
+        Callback function to get access token and redirect to frontend
+    '''
     global code_verifier, access_token, state
 
     client_id = CLIENT_ID
@@ -235,7 +231,7 @@ def get_stashes():
     if r.status_code == 200:
         stashes = r.json()['stashes']
         stash_list = []
-        
+
         for stash in stashes:
             if stash["type"] == "Folder":
                 for substash in stash["children"]:
@@ -249,7 +245,7 @@ def get_stashes():
 
     else:
         return f"Error: {r.status_code} - {r.text}", 400
-    
+
 @app.route("/get_stash/<stash_id>")
 def get_stash(stash_id):
     '''
