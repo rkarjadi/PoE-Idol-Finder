@@ -1,6 +1,6 @@
 from urllib.parse import urlencode
 from dotenv import load_dotenv
-from flask import Flask, request, redirect, jsonify
+from flask import Flask, request, redirect, send_from_directory
 from flask_cors import CORS
 
 import threading
@@ -14,7 +14,7 @@ import csv
 import re
 from collections import defaultdict
 
-app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
+app = Flask(__name__, static_folder='build', static_url_path='/')
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
@@ -144,6 +144,10 @@ def add_content_tags_to_items(items):
 
     return items
 
+@app.route("/")
+def home():
+    return send_from_directory(app.static_folder, "index.html")
+
 @app.route("/is_authorized")
 def is_authorized():
     '''
@@ -208,7 +212,7 @@ def oauth_callback():
     access_token = tokens.get("access_token")
 
     # Redirect to port 3000?
-    return redirect("http://localhost:3000")
+    return redirect("http://localhost:5000")
 
 @app.route("/get_stashes")
 def get_stashes():
@@ -305,4 +309,5 @@ def get_idols_with_content_tags(stash_id):
 
 
 if __name__ == "__main__":
-    app.run(host="localhost", port=5000, debug=True)
+    # app.run(host="localhost", port=5000, debug=True)
+    app.run()
