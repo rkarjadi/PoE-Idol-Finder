@@ -9,7 +9,6 @@ dotenv = "*"
 flask = "*"
 pymongo = "*"
 flask-cors = "*"
-gunicorn = "*"
 
 [dev-packages]
 
