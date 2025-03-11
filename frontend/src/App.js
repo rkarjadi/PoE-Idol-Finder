@@ -20,7 +20,7 @@ const App = () => {
         localStorage.setItem("isAuthorized", true);
       } else {
         localStorage.removeItem("isAuthorized");
-        window.location.href = 'http://localhost:5000/authorize';
+        window.location.href = 'https://poe-idol-finder.onrender.com/authorize';
       }
     };
 
