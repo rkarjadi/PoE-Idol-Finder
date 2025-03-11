@@ -208,7 +208,7 @@ def oauth_callback():
     access_token = tokens.get("access_token")
 
     # Redirect to port 3000?
-    return redirect("http://localhost:3000")
+    return redirect("https://poe-idol-finder-1.onrender.com")
 
 @app.route("/get_stashes")
 def get_stashes():
