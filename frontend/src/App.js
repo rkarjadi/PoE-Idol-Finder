@@ -12,7 +12,7 @@ const App = () => {
   
   useEffect(() => {
     const checkAuthorization = async () => {
-      const response = await fetch("/is_authorized");
+      const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized");
       const data = await response.json();
 
       if (data.authorized) {
@@ -34,14 +34,14 @@ const App = () => {
 
   // Retrieves all stashes (names and ids)
   const fetchStashes = async () => {
-    const response = await fetch("/get_stashes");
+    const response = await fetch("https://poe-idol-finder.onrender.com/get_stashes");
     const data = await response.json();
     setStashes(data);
     setStashesFetched(true);
   };
 
   const fetchStashIdols = async (stashId) => {
-    const response = await fetch(`/get_idols_with_content_tags/${stashId}`);
+    const response = await fetch(`https://poe-idol-finder.onrender.com/get_idols_with_content_tags/${stashId}`);
     const data = await response.json()
     setStashIdols(data);
 
