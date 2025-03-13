@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css'; // Import the CSS file
 
 const App = () => {
-  const [isAuthorized, setIsAuthorized] = useState(false);
+  // const [isAuthorized, setIsAuthorized] = useState(false);
   const [stashes, setStashes] = useState([]);
   const [selectedStash, setSelectedStash] = useState('');
   const [stashesFetched, setStashesFetched] = useState(false);
@@ -11,24 +11,34 @@ const App = () => {
   const [selectedContentTag, setSelectedContentTag] = useState('');
   
   useEffect(() => {
-    const checkAuthorization = async () => {
-      const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized");
-      const data = await response.json();
+    // const checkAuthorization = async () => {
+    //   const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized");
+    //   const data = await response.json();
 
-      if (data.authorized) {
-        setIsAuthorized(true);
-        localStorage.setItem("isAuthorized", true);
-      } else {
-        localStorage.removeItem("isAuthorized");
-        window.location.href = 'https://poe-idol-finder.onrender.com/authorize';
-      }
+    //   if (data.authorized) {
+    //     setIsAuthorized(true);
+    //     localStorage.setItem("isAuthorized", true);
+    //   } else {
+    //     localStorage.removeItem("isAuthorized");
+    //     window.location.href = 'https://poe-idol-finder.onrender.com/authorize';
+    //   }
+    // };
+
+    // if (isAuthorized) {
+    //   console.log("You are authorized.")
+    // } else {
+    //   checkAuthorization();
+    // }
+    window.location.href = 'https://poe-idol-finder.onrender.com/is_authorized'
+    const handleBeforeUnload = () => {
+      navigator.sendBeacon('/logout');
     };
 
-    if (isAuthorized) {
-      console.log("You are authorized.")
-    } else {
-      checkAuthorization();
-    }
+    window.addEventListener('beforeunload', handleBeforeUnload);
+
+    return () => {
+      window.removeEventListener('beforeunload', handleBeforeUnload);
+    };
 
   }, []);
 
