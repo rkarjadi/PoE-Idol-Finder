@@ -15,12 +15,12 @@ import re
 from collections import defaultdict
 
 app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
-cors = CORS(app)
+cors = CORS(app, support_credentials=True)
 app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['SESSION_COOKIE_NAME'] = 'poe_session'
 app.config['SESSION_COOKIE_HTTPONLY'] = True
 app.config['SESSION_COOKIE_SECURE'] = True
-app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
+app.config['SESSION_COOKIE_SAMESITE'] = 'None'
 
 # access_token = None
 stash_items = None
