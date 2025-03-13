@@ -331,39 +331,57 @@ def get_idols_with_content_tags(stash_id):
 
     global idol_with_tags
 
-    with app.test_client() as client:
+    # with app.test_client() as client:
 
-        stash_response = client.get(f"/get_stash/{stash_id}")
-        if stash_response.status_code != 200:
-            return stash_response.data, stash_response.status_code
+        # stash_response = client.get(f"/get_stash/{stash_id}")
+        # if stash_response.status_code != 200:
+        #     return stash_response.data, stash_response.status_code
 
-        stash_items = stash_response.get_json()
-        items = stash_items.get('stash', {}).get('items', [])
+        # stash_items = stash_response.get_json()
 
-        idols = [item for item in items if 'Idol' in item['typeLine'] and item['rarity'] != 'Unique']
+    access_token = session.get('access_token')
+    if not access_token:
+        return "Error: No access token found. Please authorize first.", 400
 
-        if idols == []:
-            res = make_response(jsonify([]))
-            res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
-            res.headers['Access-Control-Allow-Credentials'] = 'true'
-            print(f"Sending response: {res}")
-            return res
+    headers = {
+    'Authorization': f'Bearer {access_token}',
+    "User-Agent": f"OAuth {CLIENT_ID}/1.0.0 (contact: rkarjadi@bu.edu)"
+    }
 
+    r = requests.get(f"https://api.pathofexile.com/stash/phrecia/{stash_id}", headers=headers)
 
-        for idol in idols:
-            idol_type = idol['baseType']
-            explicit_mods = idol['explicitMods']
+    if r.status_code == 200:
+        stash_items = r.json()
 
-            content_tags = count_mods_by_content_tag(explicit_mods, idol_type)
-            idol['contentTags'] = content_tags
+    else:
+        return f"Error: {r.status_code} - {r.text}", 400
 
-        idol_with_tags = idols
+    items = stash_items.get('stash', {}).get('items', [])
 
-        res = make_response(jsonify(idol_with_tags))
+    idols = [item for item in items if 'Idol' in item['typeLine'] and item['rarity'] != 'Unique']
+
+    if idols == []:
+        res = make_response(jsonify([]))
         res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
         res.headers['Access-Control-Allow-Credentials'] = 'true'
         print(f"Sending response: {res}")
         return res
+
+
+    for idol in idols:
+        idol_type = idol['baseType']
+        explicit_mods = idol['explicitMods']
+
+        content_tags = count_mods_by_content_tag(explicit_mods, idol_type)
+        idol['contentTags'] = content_tags
+
+    idol_with_tags = idols
+
+    res = make_response(jsonify(idol_with_tags))
+    res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
+    res.headers['Access-Control-Allow-Credentials'] = 'true'
+    print(f"Sending response: {res}")
+    return res
 
 if __name__ == "__main__":
     # app.run(host="localhost", port=5000, debug=True)
