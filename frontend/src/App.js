@@ -44,6 +44,13 @@ const App = () => {
 
   }, []);
 
+  const checkAuth = async () => {
+    const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized");
+    const data = await response.json();
+    console.log(data)
+    console.log(isAuthorized)
+  }
+
   // Retrieves all stashes (names and ids)
   const fetchStashes = async () => {
     const response = await fetch("https://poe-idol-finder.onrender.com/get_stashes");
@@ -88,7 +95,9 @@ const App = () => {
     return (
       <div>
         Redirecting to Authorization Page
+        <button onClick={checkAuth}>Fetch Stashes</button>
       </div>
+      
     );
   }
 
