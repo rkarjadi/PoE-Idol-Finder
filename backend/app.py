@@ -20,7 +20,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['SESSION_COOKIE_NAME'] = 'poe_session'
 app.config['SESSION_COOKIE_HTTPONLY'] = True
 app.config['SESSION_COOKIE_SECURE'] = True
-app.config['SESSION_COOKIE_SAMESITE'] = 'None'
+app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 
 # access_token = None
 stash_items = None
