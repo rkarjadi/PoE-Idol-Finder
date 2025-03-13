@@ -22,7 +22,7 @@ const App = () => {
         localStorage.setItem("isAuthorized", true);
       } else {
         localStorage.removeItem("isAuthorized");
-        // window.location.href = 'https://poe-idol-finder.onrender.com/authorize';
+        window.location.href = 'https://poe-idol-finder.onrender.com/authorize';
       }
     };
 
@@ -44,12 +44,12 @@ const App = () => {
 
   }, []);
 
-  const checkAuth = async () => {
-    const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized", {credentials: 'include'});
-    const data = await response.json();
-    console.log(data)
-    console.log(isAuthorized)
-  }
+  // const checkAuth = async () => {
+  //   const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized", {credentials: 'include'});
+  //   const data = await response.json();
+  //   console.log(data)
+  //   console.log(isAuthorized)
+  // }
 
   // Retrieves all stashes (names and ids)
   const fetchStashes = async () => {
@@ -95,7 +95,7 @@ const App = () => {
     return (
       <div>
         Redirecting to Authorization Page
-        <button onClick={checkAuth}>Check Auth</button>
+        {/* <button onClick={checkAuth}>Check Auth</button> */}
       </div>
       
     );
