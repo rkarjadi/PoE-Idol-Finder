@@ -343,7 +343,12 @@ def get_idols_with_content_tags(stash_id):
         idols = [item for item in items if 'Idol' in item['typeLine'] and item['rarity'] != 'Unique']
 
         if idols == []:
-            return []
+            res = make_response(jsonify([]))
+            res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
+            res.headers['Access-Control-Allow-Credentials'] = 'true'
+            print(f"Sending response: {res}")
+            return res
+
 
         for idol in idols:
             idol_type = idol['baseType']
@@ -357,6 +362,7 @@ def get_idols_with_content_tags(stash_id):
         res = make_response(jsonify(idol_with_tags))
         res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
         res.headers['Access-Control-Allow-Credentials'] = 'true'
+        print(f"Sending response: {res}")
         return res
 
 if __name__ == "__main__":
