@@ -233,6 +233,7 @@ def oauth_callback():
     session['access_token'] = tokens.get("access_token")
     session['refresh_token'] = tokens.get('refresh_token')
     print(f"Session token set: {session['access_token']}")
+    print(f"Session: {session}")
     # Redirect to home page
     return redirect("https://poe-idol-finder-1.onrender.com")
 
