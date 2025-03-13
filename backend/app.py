@@ -166,6 +166,7 @@ def is_authorized():
     # else:
     #     return {"authorized": False}
     access_token = session.get('access_token')
+    print(f"Checking session access token: {access_token}")
     if  not access_token:
         # return redirect("https://poe-idol-finder.onrender.com/authorize")
         print('No access token in session. Not authorized.')
@@ -228,7 +229,7 @@ def oauth_callback():
     # access_token = tokens.get("access_token")
     session['access_token'] = tokens.get("access_token")
     session['refresh_token'] = tokens.get('refresh_token')
-
+    print(f"Session token set: {session['access_token']}")
     # Redirect to home page
     return redirect("https://poe-idol-finder-1.onrender.com")
 
@@ -258,7 +259,7 @@ def get_stashes():
     "User-Agent": f"OAuth {CLIENT_ID}/1.0.0 (contact: rkarjadi@bu.edu)"
     }
 
-    r = requests.get(f"https://api.pathofexile.com/stash/phrecia", headers=headers)
+    r = requests.get("https://api.pathofexile.com/stash/phrecia", headers=headers)
 
     if r.status_code == 200:
         stashes = r.json()['stashes']
