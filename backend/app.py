@@ -167,14 +167,16 @@ def is_authorized():
     #     return {"authorized": False}
     access_token = session.get('access_token')
     print(f"Checking session access token: {access_token}")
-    print(f"Session id: {session.sid}")
+    print(f"Checking Session: {session}")
     if  not access_token:
         # return redirect("https://poe-idol-finder.onrender.com/authorize")
         print('No access token in session. Not authorized.')
+        print(f"Checking unauthorized session: {session}")
         return {"authorized": False}
     else:
     # return f'Your access token is: {session["access_token"]}.'
         print(f"Access token in session. Authorized. {access_token}")
+        print(f"Checking authorized session: {session}")
         return {"authorized": True}
 
 @app.route("/authorize")
