@@ -82,13 +82,13 @@ const App = () => {
         .sort((a, b) => b.contentTags[selectedContentTag] - a.contentTags[selectedContentTag])
     : stashIdols;
 
-  if (!isAuthorized) {
-    return (
-      <div>
-        Redirecting to Authorization Page
-      </div>
-    );
-  }
+  // if (!isAuthorized) {
+  //   return (
+  //     <div>
+  //       Redirecting to Authorization Page
+  //     </div>
+  //   );
+  // }
 
   return (
     <div className="center">
