@@ -22,11 +22,8 @@ app.config['SESSION_COOKIE_HTTPONLY'] = True
 app.config['SESSION_COOKIE_SECURE'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'None'
 
-# access_token = None
 stash_items = None
 idol_with_tags = None
-# code_verifier = None
-# state = None
 
 load_dotenv()
 
@@ -157,22 +154,11 @@ def is_authorized():
     '''
         Check if the user is authorized - if there is no access token, return False
     '''
-
-    # global access_token
-
-    # if access_token:
-    #     return {"authorized": True}
-
-    # else:
-    #     return {"authorized": False}
     access_token = session.get('access_token')
     print(f"Checking session access token: {access_token}")
     print(f"Checking Session: {session}")
 
     if not access_token:
-        # return redirect("https://poe-idol-finder.onrender.com/authorize")
-        print('No access token in session. Not authorized.')
-        print(f"Checking unauthorized session: {session}")
 
         res = make_response(jsonify({"authorized": False}))
         res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
@@ -180,9 +166,6 @@ def is_authorized():
         return res
     
     else:
-    # return f'Your access token is: {session["access_token"]}.'
-        print(f"Access token in session. Authorized. {access_token}")
-        print(f"Checking authorized session: {session}")
 
         res = make_response(jsonify({"authorized": True}))
         res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
@@ -194,8 +177,6 @@ def authorize():
     '''
         Prompts the user to authorize the project
     '''
-
-    # global code_verifier, state
 
     client_id = CLIENT_ID
     redirect_uri = REDIRECT_URI
@@ -210,7 +191,7 @@ def oauth_callback():
     '''
         Callback function to get access token and redirect to frontend
     '''
-    # global code_verifier, access_token, state
+
     code_verifier = session.get('code_verifier')
     state = session.get('state')
 
@@ -229,8 +210,6 @@ def oauth_callback():
 
     print(f"Received state: {received_state}")
 
-
-    # if not received_state:
     if received_state != session.get('state'):
         print("Error: State mismatch.")
         return "Error: State mismatch! Possible CSRF attack.", 400
@@ -239,12 +218,9 @@ def oauth_callback():
     tokens = exchange_code_for_token(client_id, client_secret, received_code, redirect_uri, code_verifier, scopes)
 
     print("Access Token:", tokens)
-    # access_token = tokens.get("access_token")
     session['access_token'] = tokens.get("access_token")
     session['refresh_token'] = tokens.get('refresh_token')
-    print(f"Session token set: {session['access_token']}")
     session.modified = True
-    print(f"Session: {session}")
     
     # Redirect to home page
     return redirect("https://poe-idol-finder-1.onrender.com")
@@ -302,10 +278,9 @@ def get_stashes():
 @app.route("/get_stash/<stash_id>")
 def get_stash(stash_id):
     '''
-        Gets stash content from PoE API
+        Gets stash content from PoE API - NOT USED
     '''
 
-    # global access_token
     access_token = session.get('access_token')
     if not access_token:
         return "Error: No access token found. Please authorize first.", 400
@@ -331,15 +306,8 @@ def get_idols_with_content_tags(stash_id):
 
     global idol_with_tags
 
-    # with app.test_client() as client:
-
-        # stash_response = client.get(f"/get_stash/{stash_id}")
-        # if stash_response.status_code != 200:
-        #     return stash_response.data, stash_response.status_code
-
-        # stash_items = stash_response.get_json()
-
     access_token = session.get('access_token')
+
     if not access_token:
         return "Error: No access token found. Please authorize first.", 400
 
@@ -364,7 +332,7 @@ def get_idols_with_content_tags(stash_id):
         res = make_response(jsonify([]))
         res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
         res.headers['Access-Control-Allow-Credentials'] = 'true'
-        print(f"Sending response: {res}")
+
         return res
 
 
@@ -380,9 +348,8 @@ def get_idols_with_content_tags(stash_id):
     res = make_response(jsonify(idol_with_tags))
     res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
     res.headers['Access-Control-Allow-Credentials'] = 'true'
-    print(f"Sending response: {res}")
+
     return res
 
 if __name__ == "__main__":
-    # app.run(host="localhost", port=5000, debug=True)
     app.run()
