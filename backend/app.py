@@ -17,12 +17,16 @@ from collections import defaultdict
 app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
+app.config['SESSION_COOKIE_NAME'] = 'poe_session'
+app.config['SESSION_COOKIE_HTTPONLY'] = True
+app.config['SESSION_COOKIE_SECURE'] = True
+app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
 
-access_token = None
+# access_token = None
 stash_items = None
 idol_with_tags = None
-code_verifier = None
-state = None
+# code_verifier = None
+# state = None
 
 load_dotenv()
 
@@ -161,11 +165,14 @@ def is_authorized():
 
     # else:
     #     return {"authorized": False}
-    if 'access_token' not in session:
+    access_token = session.get('access_token')
+    if  not access_token:
         # return redirect("https://poe-idol-finder.onrender.com/authorize")
+        print('No access token in session. Not authorized.')
         return {"authorized": False}
     else:
     # return f'Your access token is: {session["access_token"]}.'
+        print(f"Access token in session. Authorized. {access_token}")
         return {"authorized": True}
 
 @app.route("/authorize")
@@ -174,7 +181,7 @@ def authorize():
         Prompts the user to authorize the project
     '''
 
-    global code_verifier, state
+    # global code_verifier, state
 
     client_id = CLIENT_ID
     redirect_uri = REDIRECT_URI
@@ -189,7 +196,9 @@ def oauth_callback():
     '''
         Callback function to get access token and redirect to frontend
     '''
-    global code_verifier, access_token, state
+    # global code_verifier, access_token, state
+    code_verifier = session.get('code_verifier')
+    state = session.get('state')
 
     client_id = CLIENT_ID
     client_secret = CLIENT_SECRET
@@ -213,14 +222,14 @@ def oauth_callback():
         return "Error: State mismatch! Possible CSRF attack.", 400
 
     # Exchange the code for tokens
-    tokens = exchange_code_for_token(client_id, client_secret, received_code, redirect_uri, session["code_verifier"], scopes)
+    tokens = exchange_code_for_token(client_id, client_secret, received_code, redirect_uri, code_verifier, scopes)
 
     print("Access Token:", tokens)
-    access_token = tokens.get("access_token")
+    # access_token = tokens.get("access_token")
     session['access_token'] = tokens.get("access_token")
     session['refresh_token'] = tokens.get('refresh_token')
 
-    # Redirect to port 3000?
+    # Redirect to home page
     return redirect("https://poe-idol-finder-1.onrender.com")
 
 @app.route("/logout")
@@ -239,7 +248,7 @@ def get_stashes():
         Gets all stashes from PoE API
     '''
 
-    global access_token
+    access_token = session.get('access_token')
 
     if not access_token:
         return "Error: No access token found. Please authorize first.", 400
@@ -275,8 +284,8 @@ def get_stash(stash_id):
         Gets stash content from PoE API
     '''
 
-    global access_token
-
+    # global access_token
+    access_token = session.get('access_token')
     if not access_token:
         return "Error: No access token found. Please authorize first.", 400
 
