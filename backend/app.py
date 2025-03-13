@@ -164,7 +164,8 @@ def is_authorized():
     if 'access_token' not in session:
         return redirect("https://poe-idol-finder.onrender.com/authorize")
 
-    return f'Your access token is: {session["access_token"]}.'
+    # return f'Your access token is: {session["access_token"]}.'
+    return {"authorized": True}
 
 @app.route("/authorize")
 def authorize():
