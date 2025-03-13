@@ -167,6 +167,7 @@ def is_authorized():
     #     return {"authorized": False}
     access_token = session.get('access_token')
     print(f"Checking session access token: {access_token}")
+    print(f"Session id: {session.sid}")
     if  not access_token:
         # return redirect("https://poe-idol-finder.onrender.com/authorize")
         print('No access token in session. Not authorized.')
