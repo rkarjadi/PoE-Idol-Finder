@@ -1,6 +1,6 @@
 from urllib.parse import urlencode
 from dotenv import load_dotenv
-from flask import Flask, request, redirect, jsonify
+from flask import Flask, request, redirect, session
 from flask_cors import CORS
 
 import threading
@@ -17,6 +17,7 @@ from collections import defaultdict
 app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
+app.secret = os.urandom(24)
 
 access_token = None
 stash_items = None
@@ -152,13 +153,17 @@ def is_authorized():
         Check if the user is authorized - if there is no access token, return False
     '''
 
-    global access_token
+    # global access_token
 
-    if access_token:
-        return {"authorized": True}
+    # if access_token:
+    #     return {"authorized": True}
 
-    else:
-        return {"authorized": False}
+    # else:
+    #     return {"authorized": False}
+    if 'access_token' not in session:
+        return redirect("https://poe-idol-finder.onrender.com/authorize")
+
+    return f"Your access token is: {session["access_token"]}."
 
 @app.route("/authorize")
 def authorize():
@@ -171,7 +176,7 @@ def authorize():
     client_id = CLIENT_ID
     redirect_uri = REDIRECT_URI
     scopes = SCOPES
-    auth_url, code_verifier, state = generate_auth_url(client_id, redirect_uri, scopes)
+    auth_url, session["code_verifier"], session["state"] = generate_auth_url(client_id, redirect_uri, scopes)
 
     return redirect(auth_url)
 
@@ -200,18 +205,30 @@ def oauth_callback():
 
 
     # if not received_state:
-    if received_state != state:
+    if received_state != session.get('state'):
         print("Error: State mismatch.")
         return "Error: State mismatch! Possible CSRF attack.", 400
 
     # Exchange the code for tokens
-    tokens = exchange_code_for_token(client_id, client_secret, received_code, redirect_uri, code_verifier, scopes)
+    tokens = exchange_code_for_token(client_id, client_secret, received_code, redirect_uri, session["code_verifier"], scopes)
 
     print("Access Token:", tokens)
     access_token = tokens.get("access_token")
+    session['access_token'] = tokens.get("access_token")
+    session['refresh_token'] = tokens.get('refresh_token')
 
     # Redirect to port 3000?
     return redirect("https://poe-idol-finder-1.onrender.com")
+
+@app.route("/logout")
+def logout():
+    '''
+        Removes tokens and state from session
+    '''
+    session.pop('access_token', None)
+    session.pop('refresh_token', None)
+    session.pop('state', None)
+    return redirect("https://poe-idol-finder.onrender.com/is_authorized")
 
 @app.route("/get_stashes")
 def get_stashes():
