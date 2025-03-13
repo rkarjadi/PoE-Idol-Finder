@@ -1,6 +1,6 @@
 from urllib.parse import urlencode
 from dotenv import load_dotenv
-from flask import Flask, request, redirect, session
+from flask import Flask, request, redirect, session, jsonify, make_response
 from flask_cors import CORS
 
 import threading
@@ -15,7 +15,7 @@ import re
 from collections import defaultdict
 
 app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
-cors = CORS(app, support_credentials=True)
+cors = CORS(app, support_credentials=True, origins=["https://poe-idol-finder-1.onrender.com"])
 app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['SESSION_COOKIE_NAME'] = 'poe_session'
 app.config['SESSION_COOKIE_HTTPONLY'] = True
@@ -168,16 +168,26 @@ def is_authorized():
     access_token = session.get('access_token')
     print(f"Checking session access token: {access_token}")
     print(f"Checking Session: {session}")
-    if  not access_token:
+
+    if not access_token:
         # return redirect("https://poe-idol-finder.onrender.com/authorize")
         print('No access token in session. Not authorized.')
         print(f"Checking unauthorized session: {session}")
-        return {"authorized": False}
+
+        res = make_response(jsonify({"authorized": False}))
+        res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
+        res.headers['Access-Control-Allow-Credentials'] = 'true'
+        return res
+    
     else:
     # return f'Your access token is: {session["access_token"]}.'
         print(f"Access token in session. Authorized. {access_token}")
         print(f"Checking authorized session: {session}")
-        return {"authorized": True}
+
+        res = make_response(jsonify({"authorized": True}))
+        res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
+        res.headers['Access-Control-Allow-Credentials'] = 'true'
+        return res
 
 @app.route("/authorize")
 def authorize():
