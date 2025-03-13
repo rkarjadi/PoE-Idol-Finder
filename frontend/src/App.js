@@ -12,7 +12,7 @@ const App = () => {
   
   useEffect(() => {
     const checkAuthorization = async () => {
-      const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized");
+      const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized", {credentials: 'include'});
       const data = await response.json();
       console.log(data)
       console.log(isAuthorized)
@@ -45,7 +45,7 @@ const App = () => {
   }, []);
 
   const checkAuth = async () => {
-    const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized");
+    const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized", {credentials: 'include'});
     const data = await response.json();
     console.log(data)
     console.log(isAuthorized)
@@ -95,7 +95,7 @@ const App = () => {
     return (
       <div>
         Redirecting to Authorization Page
-        <button onClick={checkAuth}>Fetch Stashes</button>
+        <button onClick={checkAuth}>Check Auth</button>
       </div>
       
     );
