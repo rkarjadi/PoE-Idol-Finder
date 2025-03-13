@@ -14,13 +14,15 @@ const App = () => {
     const checkAuthorization = async () => {
       const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized");
       const data = await response.json();
+      console.log(data)
+      console.log(isAuthorized)
 
       if (data.authorized) {
         setIsAuthorized(true);
         localStorage.setItem("isAuthorized", true);
       } else {
         localStorage.removeItem("isAuthorized");
-        window.location.href = 'https://poe-idol-finder.onrender.com/authorize';
+        // window.location.href = 'https://poe-idol-finder.onrender.com/authorize';
       }
     };
 
