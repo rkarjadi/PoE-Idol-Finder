@@ -15,7 +15,7 @@ import re
 from collections import defaultdict
 
 app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
-cors = CORS(app, support_credentials=True, origins="*")
+cors = CORS(app, support_credentials=True, origins=["https://poe-idol-finder-1.onrender.com"])
 app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['SESSION_COOKIE_NAME'] = 'poe_session'
 app.config['SESSION_COOKIE_HTTPONLY'] = True
