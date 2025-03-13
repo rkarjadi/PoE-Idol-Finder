@@ -290,7 +290,10 @@ def get_stashes():
             else:
                 stash_list.append({"name":stash["name"], "id": stash["id"], "type": stash["type"]})
 
-        return stash_list
+        res = make_response(jsonify(stash_list))
+        res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
+        res.headers['Access-Control-Allow-Credentials'] = 'true'
+        return res
 
 
     else:
@@ -351,8 +354,10 @@ def get_idols_with_content_tags(stash_id):
 
         idol_with_tags = idols
 
-        return idol_with_tags
-
+        res = make_response(jsonify(idol_with_tags))
+        res.headers['Access-Control-Allow-Origin'] = 'https://poe-idol-finder-1.onrender.com'
+        res.headers['Access-Control-Allow-Credentials'] = 'true'
+        return res
 
 if __name__ == "__main__":
     # app.run(host="localhost", port=5000, debug=True)
