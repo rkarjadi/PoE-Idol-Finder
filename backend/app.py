@@ -266,6 +266,7 @@ def get_stashes():
     '''
 
     access_token = session.get('access_token')
+    print(f"Checking session: {session}")
 
     if not access_token:
         return "Error: No access token found. Please authorize first.", 400
