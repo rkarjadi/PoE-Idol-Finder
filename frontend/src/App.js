@@ -51,14 +51,14 @@ const App = () => {
 
   // Retrieves all stashes (names and ids)
   const fetchStashes = async () => {
-    const response = await fetch("https://poe-idol-finder.onrender.com/get_stashes");
+    const response = await fetch("https://poe-idol-finder.onrender.com/get_stashes", {credentials: 'include'});
     const data = await response.json();
     setStashes(data);
     setStashesFetched(true);
   };
 
   const fetchStashIdols = async (stashId) => {
-    const response = await fetch(`https://poe-idol-finder.onrender.com/get_idols_with_content_tags/${stashId}`);
+    const response = await fetch(`https://poe-idol-finder.onrender.com/get_idols_with_content_tags/${stashId}`, {credentials: 'include'});
     const data = await response.json()
     setStashIdols(data);
 
