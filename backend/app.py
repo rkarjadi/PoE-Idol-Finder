@@ -28,6 +28,7 @@ load_dotenv()
 
 
 CLIENT_ID = os.getenv('CLIENT_ID')
+CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 REDIRECT_URI = os.getenv('REDIRECT_URI')
 SCOPES = os.getenv('SCOPES').split(',')
 
@@ -81,12 +82,13 @@ def generate_auth_url(client_id, redirect_uri, scopes):
 
     return auth_url, code_verifier, state
 
-def exchange_code_for_token(client_id, code, redirect_uri, code_verifier, scopes):
+def exchange_code_for_token(client_id, client_secret, code, redirect_uri, code_verifier, scopes):
     """Exchanges an authorization code for an access token."""
     token_url = "https://www.pathofexile.com/oauth/token"
 
     data = {
         "client_id": client_id,
+        "client_secret": client_secret,
         "grant_type": "authorization_code",
         "code": code,
         "redirect_uri": redirect_uri,
@@ -182,6 +184,7 @@ def oauth_callback():
     global code_verifier, access_token, state
 
     client_id = CLIENT_ID
+    client_secret = CLIENT_SECRET
     redirect_uri = REDIRECT_URI
     scopes = SCOPES
 
@@ -202,7 +205,7 @@ def oauth_callback():
         return "Error: State mismatch! Possible CSRF attack.", 400
 
     # Exchange the code for tokens
-    tokens = exchange_code_for_token(client_id, received_code, redirect_uri, code_verifier, scopes)
+    tokens = exchange_code_for_token(client_id, client_secret, received_code, redirect_uri, code_verifier, scopes)
 
     print("Access Token:", tokens)
     access_token = tokens.get("access_token")
