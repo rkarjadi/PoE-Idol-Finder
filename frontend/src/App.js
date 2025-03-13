@@ -14,8 +14,6 @@ const App = () => {
     const checkAuthorization = async () => {
       const response = await fetch("https://poe-idol-finder.onrender.com/is_authorized", {credentials: 'include'});
       const data = await response.json();
-      console.log(data)
-      console.log(isAuthorized)
 
       if (data.authorized) {
         setIsAuthorized(true);
