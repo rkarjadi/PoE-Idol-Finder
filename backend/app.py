@@ -17,7 +17,6 @@ from collections import defaultdict
 app = Flask(__name__, static_folder='../frontend/build', static_url_path='/')
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
-app.secret = os.urandom(24)
 
 access_token = None
 stash_items = None
@@ -32,6 +31,8 @@ CLIENT_ID = os.getenv('CLIENT_ID')
 CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 REDIRECT_URI = os.getenv('REDIRECT_URI')
 SCOPES = os.getenv('SCOPES').split(',')
+SECRET_KEY = os.getenv("SECRET_KEY")
+app.secret_key = SECRET_KEY
 
 pp = pprint.PrettyPrinter(indent = 4)
 
